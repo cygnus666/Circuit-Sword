@@ -14,17 +14,6 @@
 ### Circuit Sword Original
 * Guide
 ### Common assembly steps
-* Button holes cutout
-* USB power cutout
-* LCD cutout
-  * LCD glue posts
-  * LCD HoolyHoo bracket
-* Back board solder
-* Power switch and mode button solder
-* Back buttons cutout
-* Battery bay cutout
-* Speaker fitting
-* Joystick fitting
-* Closing up the case
+* GBO
 ### 640x480 LCD
 * How to fit
