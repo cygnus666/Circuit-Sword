@@ -9,6 +9,7 @@
 * Flashing software onto Pi
 * Updating Arduino code
 ## Hardware (PCBs)
+* Circuit Sword Original V1.1E
 ## Build Guides
 ### Electronics Setup
 * Circuit Sword Original Guide
