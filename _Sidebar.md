@@ -10,9 +10,13 @@
 * Updating Arduino code
 ## Hardware (PCBs)
 ## Build Guides
-### Circuit Sword Original
-* Guide
-### Common assembly steps
-* GBO
+### Electronics Setup
+* Circuit Sword Original Guide
+### Case Modding
+* GB Original Guide
+### Fitting the joystick
+* Joystick Guide
 ### 640x480 LCD
-* How to fit
+* 640 LCD Guide
+### Analogue Volume
+* Analogue Volume Guide
