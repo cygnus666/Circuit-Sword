@@ -2,10 +2,10 @@
 ## Getting Started
 * How to build - A step by step
 * Putting the software onto an SD card
-* Running in 'TESTER' mode
-## Troubleshooting
-* LCD/power troubleshooting
 * Mode Button Shortcut Keys
+## Troubleshooting
+* Running in 'TESTER' mode
+* LCD/power troubleshooting
 ## Software Setup
 * Flashing software onto Pi
 * Updating Arduino code
