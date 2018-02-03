@@ -2,6 +2,7 @@
 ## Getting Started
 * How to build - A step by step
 * Mode Button Shortcut Keys
+* Configuration switches usage
 ## Troubleshooting
 * [Running in 'TESTER' mode](https://github.com/geebles/Circuit-Sword/wiki/Running-in-TESTER-Mode)
 * [Troubleshooting (LCD/Power/USB/Software)](https://github.com/geebles/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
