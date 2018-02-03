@@ -3,7 +3,7 @@
 * How to build - A step by step
 * Mode Button Shortcut Keys
 ## Troubleshooting
-* Running in 'TESTER' mode
+* [Running in 'TESTER' mode](https://github.com/geebles/Circuit-Sword/wiki/Running-in-TESTER-Mode)
 * LCD/power troubleshooting
 ## Software Setup
 * Flashing software onto Pi
