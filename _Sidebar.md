@@ -8,6 +8,7 @@
 * [Troubleshooting (LCD/Power/USB/Software)](https://github.com/geebles/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
 * Flashing software onto Pi
+* Updating the software
 * Updating Arduino code
 ## Hardware (PCBs)
 * Circuit Sword Original V1.1E
