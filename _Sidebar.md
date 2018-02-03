@@ -4,7 +4,7 @@
 * Mode Button Shortcut Keys
 ## Troubleshooting
 * [Running in 'TESTER' mode](https://github.com/geebles/Circuit-Sword/wiki/Running-in-TESTER-Mode)
-* LCD/power troubleshooting
+* [Troubleshooting (LCD/Power/USB/Software)](https://github.com/geebles/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
 * Flashing software onto Pi
 * Updating Arduino code
