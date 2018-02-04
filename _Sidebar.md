@@ -14,7 +14,7 @@
 * [Circuit Sword Original V1.1E](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
 ### Electronics Setup
-* Circuit Sword Original Guide
+* [Circuit Sword Original Guide](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 ### Case Modding
 * GB Original Guide
 ### Fitting the joystick
