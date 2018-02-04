@@ -1,7 +1,7 @@
 # [WIKI HOME PAGE](https://github.com/geebles/Circuit-Sword/wiki)
 ## Getting Started
 * How to build - A step by step
-* Mode Button Shortcut Keys
+* [Mode Button Shortcut Keys](https://github.com/geebles/Circuit-Sword/wiki/Mode-Button-Shortcut-Keys)
 * Configuration switches usage
 ## Troubleshooting
 * [Running in 'TESTER' mode](https://github.com/geebles/Circuit-Sword/wiki/Running-in-TESTER-Mode)
