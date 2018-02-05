@@ -50,3 +50,6 @@ _The LCD connector is PINS SIDE UP_
 11. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
 12. Once booted, use a rubber membrane to configure the input as instructed on screen
 13. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
+
+## 3. Next steps
+Now that the electronics are tested to be working, the only extra things you might want to do are the back buttons and joystick (optional) as these require soldering to complete. Most likely you'll want to assemble it into your case!
