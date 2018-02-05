@@ -15,6 +15,7 @@
 ## Build Guides
 ### Electronics Setup
 * [Circuit Sword Original Guide](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
+* [Fan and heatsink](https://github.com/geebles/Circuit-Sword/wiki/Fan-and-Heatsink)
 ### Case Modding
 * GB Original Guide
 ### Fitting the joystick
