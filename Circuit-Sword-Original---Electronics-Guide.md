@@ -35,3 +35,18 @@ Now that basic power looks good, you can proceed to insert the Compute Module in
 8. Insert a pre-imaged SD card into the SD slot
 9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
 
+_Note that the heatsink and fan aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
+
+[[images/CSO_V1.1E_BASIC_CONNECTIONS.jpg]]
+
+_The back board connector goes BLUE SIDE UP on both ends_
+[[images/CSO_V1.1E_BBCONN1.jpg]]
+[[images/CSO_V1.1E_BBCONN2.jpg]]
+
+_The LCD connector is PINS SIDE UP_
+[[images/CSO_V1.1E_LCDCONN1.jpg]]
+
+10. Slide the switch ON
+11. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
+12. Once booted, use a rubber membrane to configure the input as instructed on screen
+13. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
