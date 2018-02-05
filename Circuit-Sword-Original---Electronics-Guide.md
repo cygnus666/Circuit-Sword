@@ -2,7 +2,7 @@
 This small guide will walk you through the basic steps of how the electronics work for the Circuit Sword Original. The actual plastic hardware case used is pretty much open ended and entirely up to you, but there are guides on the right hand menu that will help in those areas. This section is specifically about the board and electronics.
 
 # Tools Needed
-The follow would be REALLY useful to have, and I would not recommend to continue without them:
+The following would be REALLY useful to have, and I would not recommend to continue without them:
 * Kapton tape (electrical tape is NOT good enough)
 * Double sided sticky tape
 * Double sided foam tape
