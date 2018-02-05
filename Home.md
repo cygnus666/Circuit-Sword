@@ -28,7 +28,7 @@ You can find more information about the previous pre-order here: https://www.sud
 # I've got my Circuit Sword, now what?
 Here are the generalised steps to follow:
 
-1. Test all electronics
+1. [Test all electronics](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 2. Make case modifications
 3. Assembly
 4. Play
