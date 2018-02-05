@@ -22,9 +22,9 @@ At this point, your computer will recognise the following new devices:
 2. Install
 
 ## Preparing the software
-3. Download the latest code (e.g. [here](https://github.com/geebles/Super-AIO/archive/master.zip))
-4. Browse to `Super-AIO/source/SAIO_Arduino/SAIO_v2a/`
-5. Double click `SAIO_v2a.ino`
+3. Download the latest source code (e.g. cloning this repo)
+4. Browse to `Circuit-Sword/kite-arduino/CS_FIRMWARE/`
+5. Double click `CS_FIRMWARE.ino`
 6. In the editor click `Sketch -> Include Libraries -> Manage Libraries`
 7. Search for `HID-Project` and install it
 8. Click on the `config.h` tab
