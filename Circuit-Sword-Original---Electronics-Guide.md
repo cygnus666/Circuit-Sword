@@ -32,7 +32,7 @@ All the LEDs should come on at this point (see [here](https://github.com/geebles
 Now that basic power looks good, you can proceed to insert the Compute Module into the holder, insert a flashed SD, and connect up the back board:
 
 7. Insert Compute Module into holder, and connect up the FPC and back board as shown below.
-8. Insert a pre-imaged SD card into the SD slot
+8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/geebles/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
 9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
 
 _Note that the heatsink and fan aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
