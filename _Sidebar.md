@@ -8,7 +8,7 @@
 * [Troubleshooting (LCD/Power/USB/Software)](https://github.com/geebles/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
 * Flashing software onto Compute Module
-* Updating the software
+* [Updating the software](https://github.com/geebles/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/geebles/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
 ## Hardware (PCBs)
 * [Circuit Sword Original V1.1E](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
