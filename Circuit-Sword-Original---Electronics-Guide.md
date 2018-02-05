@@ -35,7 +35,7 @@ Now that basic power looks good, you can proceed to insert the Compute Module in
 8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/geebles/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
 9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
 
-_Note that the heatsink and fan aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
+_Note that the [heatsink and fan](https://github.com/geebles/Circuit-Sword/wiki/Fan-and-Heatsink) aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
 
 [[images/CSO_V1.1E_BASIC_CONNECTIONS.jpg]]
 
