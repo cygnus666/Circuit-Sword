@@ -7,7 +7,7 @@
 * [Running in 'TESTER' mode](https://github.com/geebles/Circuit-Sword/wiki/Running-in-TESTER-Mode)
 * [Troubleshooting (LCD/Power/USB/Software)](https://github.com/geebles/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
-* Flashing software onto Compute Module
+* [Flashing software onto Compute Module](https://github.com/geebles/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module)
 * [Updating the software](https://github.com/geebles/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/geebles/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
 ## Hardware (PCBs)
