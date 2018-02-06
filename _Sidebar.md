@@ -21,7 +21,7 @@
 ### Fitting the joystick
 * [Joystick Guide](https://github.com/geebles/Circuit-Sword/wiki/Joystick-Guide)
 ### 640x480 LCD
-* 640 LCD Guide
+* [640 LCD Guide](https://github.com/geebles/Circuit-Sword/wiki/640x480-LCD-Guide)
 ### Analogue Volume
 * Analogue Volume Guide
 * [Digital Volume Guide](https://github.com/geebles/Circuit-Sword/wiki/Digital-Volume-Guide)
