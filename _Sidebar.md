@@ -24,3 +24,4 @@
 * 640 LCD Guide
 ### Analogue Volume
 * Analogue Volume Guide
+* Digital Volume Guide
