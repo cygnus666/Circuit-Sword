@@ -4,14 +4,14 @@ Tester mode allows for some basic automated tests to run to show the general sys
 ## Enabling TESTER mode
 1. Open the SD in your computer and edit 'config-cs.txt' with "NOTEPAD++" (NOT the normal notepad)
 2. Un-comment the 'TESTER' line, and the comment the 'NORMAL' line with a # so that it looks like:
-```
+``` bash
 #MODE=NORMAL
 MODE=TESTER
 #MODE=SHELL
 ```
 3. Place SD in pi, power on, you're now in tester mode.. NOTE that in tester mode, the power switch will NOT power the Pi off! Instead it shows on the screen 'GPIO SHDN [ ON ]' (or [ OFF ]) to tell you what the Pi sees (ON = stay on, OFF = do a shutdown) .. you can slide the switch OFF and then press the mode button to kill it.
 4. When testing done, reverse the steps in step 4 so that it now looks like this:
-```
+``` bash
 MODE=NORMAL
 #MODE=TESTER
 #MODE=SHELL
