@@ -19,7 +19,7 @@
 ### Case Modding
 * GB Original Guide
 ### Fitting the joystick
-* Joystick Guide
+* [Joystick Guide](https://github.com/geebles/Circuit-Sword/wiki/Joystick-Guide)
 ### 640x480 LCD
 * 640 LCD Guide
 ### Analogue Volume
