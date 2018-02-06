@@ -19,7 +19,7 @@
 * [Circuit Sword Original Guide](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 * [Fan and heatsink](https://github.com/geebles/Circuit-Sword/wiki/Fan-and-Heatsink)
 ### Case Modding
-* GB Original Guide
+* [GB Original Guide](https://github.com/geebles/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide)
 ### Fitting the joystick
 * [Joystick Guide](https://github.com/geebles/Circuit-Sword/wiki/Joystick-Guide)
 ### 640x480 LCD
