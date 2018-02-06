@@ -11,7 +11,7 @@
 * [Updating the software](https://github.com/geebles/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/geebles/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
 ## Tweaks
-* [Configure input for DOSBOX]()
+* [Configure input for DOSBOX](https://github.com/geebles/Circuit-Sword/wiki/Configure-Input-for-DOSBOX)
 ## Hardware (PCBs)
 * [Circuit Sword Original V1.1E](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
