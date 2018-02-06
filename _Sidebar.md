@@ -10,6 +10,8 @@
 * [Flashing software onto Compute Module](https://github.com/geebles/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module)
 * [Updating the software](https://github.com/geebles/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/geebles/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
+## Tweaks
+* [Configure input for DOSBOX]()
 ## Hardware (PCBs)
 * [Circuit Sword Original V1.1E](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
