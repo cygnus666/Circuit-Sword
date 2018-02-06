@@ -24,4 +24,4 @@
 * 640 LCD Guide
 ### Analogue Volume
 * Analogue Volume Guide
-* Digital Volume Guide
+* [Digital Volume Guide](https://github.com/geebles/Circuit-Sword/wiki/Digital-Volume-Guide)
