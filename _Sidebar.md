@@ -23,5 +23,5 @@
 ### 640x480 LCD
 * [640 LCD Guide](https://github.com/geebles/Circuit-Sword/wiki/640x480-LCD-Guide)
 ### Analogue Volume
-* Analogue Volume Guide
+* [Analog Volume Guide](https://github.com/geebles/Circuit-Sword/wiki/Analog-Volume-Guide)
 * [Digital Volume Guide](https://github.com/geebles/Circuit-Sword/wiki/Digital-Volume-Guide)
