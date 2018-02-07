@@ -5,7 +5,7 @@ Not all steps are required, this is just a guide of what you **COULD** do. You d
 
 ## General Overview
 Generally speaking, you need to:
-* Make the display hole bigger
+* [Make the display hole bigger](https://github.com/geebles/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide/_edit#make-the-display-hole-biggercutting-out-the-lcd-space)
 * Add extra buttons on front (X and Y)
 * Cut out USB C charging connector
 * Glue in new LCD and mounting posts (3D printed or otherwise)
@@ -19,7 +19,37 @@ Generally speaking, you need to:
 * _(Optional)_ Add a joystick
 
 # Front half of case
-## Make the display hole bigger
+## Make the display hole bigger/cutting out the LCD space
+This section details the removal of the excess plastic for the LCD and screen protector to fit.
+
+Place your screen protector in place and measure up and mark out how much you need to remove:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/1.jpg]]
+
+On the inside, remove all posts that are in the way. If you plan to use these later for the mounting posts then make sure to cut them so that they are as long as possible:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/2.jpg]]
+
+Ideally use a knife cut out the area, or use a rotary cutting tool. Don't try and get it perfect first try, cut it out roughly and then use a knife to neaten up afterwards:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/3.jpg]]
+
+Pop out the cut:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/4.jpg]]
+
+Using a knife, carve the edges. The plastic is soft and cuts really easily:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/5.jpg]]
+
+Cheak regularly for fit:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/6.jpg]]
+
+Finished cutout. NOTE don't stick the protector in yet, do this AFTER you have glued the LCD in, otherwise it will be hard to clean and get dust free:
+
+[[images/CSO/BUILD/GBO_LCD_CUT/7.jpg]]
+
 ## Add X and Y buttons
 ## USB C cutout
 ## Fit LCD (Hoolyhoo bracket)
