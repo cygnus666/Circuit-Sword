@@ -2,7 +2,7 @@
 ## Fitting the joystick
 The Circuit Sword has 2x joystick ports, both are labelled with the pinout where X is left/right and Y is up/down. See the board itself for the pinout and match up yourself to the included 4pin JST SH connectors.
 
-[[images/CSO_JOYSTICK_CONN1.png]]
+[[images/CSO/CSO_JOYSTICK_CONN1.png]]
 
 ## Calibrating the joystick
 When the joystick is connected, it will not function until it is calibrated. The calibration sequence detects if a joystick is connected and sets the min and max based on the actual joystick you have. If a joystick is not connected, the calibration won't enable it.

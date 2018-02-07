@@ -15,7 +15,7 @@ To connect to the PC, you need to:
 
 At this point, your computer will recognise the following new devices:
 
-[[images/CS_USB_DEVICES.png]]
+[[images/CSO/CS_USB_DEVICES.png]]
 
 ## Install Arduino Software
 1. Download the [Arduino software](https://www.arduino.cc/en/Main/Software)

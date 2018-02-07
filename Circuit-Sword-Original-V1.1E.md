@@ -10,16 +10,16 @@ The following images should generally what the product is and what it includes:
 ## LEDs
 ### ALL LEDs
 The following image shows the states of all the main LEDs on the board:
-[[images/CSO_V1.1E_ALL_LEDs.png]]
+[[images/CSO/CSO_V1.1E_ALL_LEDs.png]]
 
 ### LED Extensions
 The following image shows the wiring of the main status LEDs if you wish to re-route them elsewhere. NOT that the charging LED is NOT common GND and MUST use the two wires as detailed:
-[[images/CSO_V1.1E_LEDs.png]]
+[[images/CSO/CSO_V1.1E_LEDs.png]]
 
 ## TOP
 The following image shows the front/top of the board and points out useful things:
-[[images/CSO_V1.1E_FRONT.png]]
+[[images/CSO/CSO_V1.1E_FRONT.png]]
 
 # BOTTOM
 The following image shows the back/bottom of the board and points out useful things:
-[[images/CSO_V1.1E_BACK.png]]
+[[images/CSO/CSO_V1.1E_BACK.png]]
