@@ -189,7 +189,55 @@ Fit the screen protector. Typically they come with tape already applied, if not 
 [[images/CSO/BUILD/GBO_LCD_HOOLYHOO/7.jpg]]
 
 ## Fit speaker
+This VECO 28mm speaker is my favourite and sounds pretty good! It does interfere with the battery bay slightly so you will need to make a cutout. If using the included speaker you do not need to make the cutout.
+
+[[images/CSO/BUILD/GBO_SPEAKER_VECO/1.jpg]]
+
+Trim battery bay ONLY if the speaker interferes with it. If using the included speaker you won't need to do this:
+
+[[images/CSO/BUILD/GBO_SPEAKER_VECO/2.jpg]
+
+[[images/CSO/BUILD/GBO_SPEAKER_VECO/3.jpg]]
+
 ## (Optional) LED status holes
+This step is to make some holes for the built in LEDs to shine through.
+
+Place board and mark on inside where the first LED should go:
+
+[[images/CSO/BUILD/GBO_LEDS/1.jpg]]
+
+Using something sharp, poke a small hole through the plastic. It is quite soft:
+
+[[images/CSO/BUILD/GBO_LEDS/3.jpg]]
+
+[[images/CSO/BUILD/GBO_LEDS/4.jpg]]
+
+Drill out the hole:
+
+[[images/CSO/BUILD/GBO_LEDS/5.jpg]]
+
+Place the template and mark the remaining holes:
+
+[[images/CSO/BUILD/GBO_LEDS/6.jpg]]
+
+Drill all the holes out (2 or 3mm)
+
+[[images/CSO/BUILD/GBO_LEDS/7.jpg]]
+
+Cover outside in Kapton tape:
+
+[[images/CSO/BUILD/GBO_LEDS/8.jpg]]
+
+Using a hot glue gun, fill the holes with glue. While the glue is hot, use a needle to pop the air bubble that gets created. Stiring inside the hole will help, and if it start cooling put the glue gun back on. Use the tip of the glue gun to move any excess glue away and peel off:
+
+[[images/CSO/BUILD/GBO_LEDS/9.jpg]]
+
+The end result will let the LEDs shine through the opaque glue:
+
+[[images/CSO/BUILD/GBO_LEDS/10.jpg]]
+
+[[images/CSO/BUILD/GBO_LEDS/11.jpg]]
+
 ## (Optional) Fit joystick
 
 # Back half of case
