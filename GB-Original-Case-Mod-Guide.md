@@ -10,8 +10,8 @@ Generally speaking, you need to:
 * [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#usb-c-cutout)
 * Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or [otherwise](https://github.com/geebles/Super-AIO/wiki/LCD-gluing-posts))
 * [Stick in new LCD glass](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#attach-glass)
-* Glue in speaker
-* _(Optional)_ Make holes for the status LEDs to shine through
+* [Glue in speaker](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-speaker)
+* _(Optional)_ [Make holes for the status LEDs to shine through](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-led-status-holes)
 * Glue in the power switch and mode button
 * Add some kind of back buttons
 * Add the back board
