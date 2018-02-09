@@ -22,7 +22,7 @@ The first thing we should do is check that the board is safe and powers up witho
 2. The 'PG' RED LED should be lit (to the right of the battery connector)
 3. Press and hold the 'power button' which is located to the RIGHT of the battery connector
 
-All the LEDs should come on at this point (see [here](https://github.com/geebles/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#all-leds) for more information). As soon as you release the button it should all power off. The most important LEDs are the 5x power LEDs right below the compute module connector. Those show that all voltage rails are working. If any LED is out, contact the forum/email for support.
+All the LEDs should come on at this point (see [here](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#all-leds) for more information). As soon as you release the button it should all power off. The most important LEDs are the 5x power LEDs right below the compute module connector. Those show that all voltage rails are working. If any LED is out, contact the forum/email for support.
 
 4. Unplug USB cable, and plug in battery
 5. Plug in USB cable
@@ -32,10 +32,10 @@ All the LEDs should come on at this point (see [here](https://github.com/geebles
 Now that basic power looks good, you can proceed to insert the Compute Module into the holder, insert a flashed SD, and connect up the back board:
 
 7. Insert Compute Module into holder, and connect up the FPC and back board as shown below.
-8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/geebles/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
+8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
 9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
 
-_Note that the [heatsink and fan](https://github.com/geebles/Circuit-Sword/wiki/Fan-and-Heatsink) aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
+_Note that the [heatsink and fan](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink) aren't required for the first boot testing. Nothing bad will happen without them. Connect like so:_
 
 [[images/CSO/CSO_V1.1E_BASIC_CONNECTIONS.jpg]]
 

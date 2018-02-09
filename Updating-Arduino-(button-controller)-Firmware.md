@@ -9,7 +9,7 @@ The Arduino is updatable by USB, and the easiest way is to do it from a computer
 To connect to the PC, you need to:
 
 1. Turn off and unplug USB from Circuit Sword
-2. Set the [config switches](https://github.com/geebles/Circuit-Sword/wiki/Configuration-Switches) to "HUB-PASSTHRU" and "PROG-EN"
+2. Set the [config switches](https://github.com/kiteretro/Circuit-Sword/wiki/Configuration-Switches) to "HUB-PASSTHRU" and "PROG-EN"
 3. Plug in USB cable to PC and Circuit Sword
 4. Turn the Circuit Sword on using the power switch
 

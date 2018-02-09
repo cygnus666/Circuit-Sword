@@ -5,8 +5,8 @@ Not all steps are required, this is just a guide of what you **COULD** do. You d
 
 ## General Overview
 Generally speaking, you need to:
-* [Make the display hole bigger](https://github.com/geebles/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
-* [Add extra buttons on front (X and Y)](https://github.com/geebles/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
+* [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
+* [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
 * Cut out USB C charging connector
 * Glue in new LCD and mounting posts (3D printed or otherwise)
 * Stick in new LCD glass
