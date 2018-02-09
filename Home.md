@@ -1,5 +1,11 @@
 Welcome to the Circuit-Sword wiki! This wiki provides all documentation for the Circuit Sword projects. If you have a product named something else (e.g. Super AIO, SAIO, Super All in One, etc) then this isn't the wiki for you. If you have a Circuit Sword then keep reading!
 
+![](https://i.imgur.com/ibdWkuw.png) Follow me on Instagram: http://instagram.com/kiteretro
+
+![](https://i.imgur.com/gM0UlHb.png) Follow me on YouTube: http://youtube.com/gilesburgess
+
+![](https://i.imgur.com/s4VyfJG.png) Like my work? Why not buy me a coffee: http://ko-fi.com/kiteretro
+
 # What is the Circuit Sword?
 The Circuit Sword is a single circuit board that contains all the required power/logic/io/peripherals to run a Raspberry Pi Compute Module 3. This makes the Circuit Sword a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability and ease of use, and so features battery charging and power/shutdown management as well as button input, LCD and audio output. The Circuit Sword is a perfect fit for retro handheld console form factors and they can provide a safe and secure enclosure for the board.
 
