@@ -3,7 +3,7 @@ In the image of the CSO [here](https://github.com/kiteretro/Circuit-Sword/wiki/C
 
 1. Get and solder the nagivation swith (e.g. https://www.aliexpress.com/item/10pcs-lever-and-Push-switch-momentary-operation-by-lever-and-center-push-using-a-single-knob/32795557524.html)
 2. Edit the arduino code at this line: https://github.com/kiteretro/Circuit-Sword/blob/master/kite-arduino/CS_FIRMWARE/config.h#L64 and change to:
-```
+``` c
 #define USE_VOLUME_DIGITAL
 ```
 3. Upload to Arduinio
