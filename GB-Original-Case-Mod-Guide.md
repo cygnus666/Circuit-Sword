@@ -8,8 +8,8 @@ Generally speaking, you need to:
 * [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
 * [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
 * [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#usb-c-cutout)
-* Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or otherwise)
-* Stick in new LCD glass
+* Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or [otherwise](https://github.com/geebles/Super-AIO/wiki/LCD-gluing-posts))
+* [Stick in new LCD glass](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#Attach-Glass)
 * Glue in speaker
 * _(Optional)_ Make holes for the status LEDs to shine through
 * Glue in the power switch and mode button
@@ -183,12 +183,11 @@ Place LCD as pictured and run a bead of glue around the edge in the highlighted 
 
 [[images/CSO/BUILD/GBO_LCD_HOOLYHOO/6.jpg]]
 
+## Attach glass
 Fit the screen protector. Typically they come with tape already applied, if not use regular double sided tape:
 
 [[images/CSO/BUILD/GBO_LCD_HOOLYHOO/7.jpg]]
 
-## Fit LCD (Manually)
-## Attach glass
 ## Fit speaker
 ## (Optional) LED status holes
 ## (Optional) Fit joystick
