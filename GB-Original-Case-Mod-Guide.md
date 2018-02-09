@@ -8,7 +8,7 @@ Generally speaking, you need to:
 * [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
 * [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
 * [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#usb-c-cutout)
-* Glue in new LCD and mounting posts (3D printed or otherwise)
+* Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or otherwise)
 * Stick in new LCD glass
 * Glue in speaker
 * _(Optional)_ Make holes for the status LEDs to shine through
@@ -161,6 +161,32 @@ Trim and final fit:
 [[images/CSO/BUILD/GBO_USB_POWER/8.jpg]]
 
 ## Fit LCD (Hoolyhoo bracket)
+This section details how to glue HoolyHoos LCD adapter bracket.
+
+Prepare and see how the LCD fits:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/1.jpg]]
+
+Cut out the LCD area:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/2.jpg]]
+
+Prepare the 2mm holes and put black marker on the inside of the edge. Prepare double sided tape too if necessary. You should prepare everything so that when the LCD is placed the LCD cover can be placed straight on to avoid dust getting on the LCD:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/3.jpg]]
+
+If using big LEDs, trim the plastic slightly:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/4.jpg]]
+
+Place LCD as pictured and run a bead of glue around the edge in the highlighted areas. You MUST glue this in. It would be a LOT better to use a 2 part epoxy for holding the bracket in. Over time and heat, hotglue will pull away and your build may start coming apart. Where possible use epoxy:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/6.jpg]]
+
+Fit the screen protector. Typically they come with tape already applied, if not use regular double sided tape:
+
+[[images/CSO/BUILD/GBO_LCD_HOOLYHOO/7.jpg]]
+
 ## Fit LCD (Manually)
 ## Attach glass
 ## Fit speaker
