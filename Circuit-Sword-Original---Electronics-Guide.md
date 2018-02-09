@@ -53,3 +53,5 @@ _The LCD connector is PINS SIDE UP_
 
 ## 3. Next steps
 Now that the electronics are tested to be working, the only extra things you might want to do are the back buttons and joystick (optional) as these require soldering to complete. Most likely you'll want to assemble it into your case!
+
+Case modding: https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide
