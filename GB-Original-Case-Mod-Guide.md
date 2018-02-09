@@ -15,7 +15,7 @@ Generally speaking, you need to:
 * Glue in the power switch and mode button
 * Add some kind of back buttons
 * Add the back board
-* _(Optional)_ Add a blank cartridge
+* _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-blank-cartridge)
 * _(Optional)_ Add a joystick
 
 # Front half of case
@@ -245,6 +245,32 @@ The end result will let the LEDs shine through the opaque glue:
 ## Fit back buttons
 ## Fit back board
 ## Fit blank cartridge
+Inserting a cartridge as is will work and friction will hold it in. If you want more space inside the shell then you can fit a fake cartridge (non removable) and free up a load of space.
+
+The back half support can be trimmed:
+
+[[images/CSO/BUILD/GBO_CARTCUT/1.jpg]]
+
+This is what a blank cartridge needs to look like before we install it:
+
+[[images/CSO/BUILD/GBO_CARTCUT/2.jpg]]
+
+Top:
+
+[[images/CSO/BUILD/GBO_CARTCUT/3.jpg]]
+
+Bottom:
+
+[[images/CSO/BUILD/GBO_CARTCUT/4.jpg]]
+
+Test fit to see where it all should go. If you want to put a label on it, do so now.
+When ready, use hot glue to fix it in:
+
+[[images/CSO/BUILD/GBO_CARTCUT/5.jpg]]
+
+From the outside it will look like this:
+
+[[images/CSO/BUILD/GBO_CARTCUT/6.jpg]]
 
 # Assembly
 TODO
