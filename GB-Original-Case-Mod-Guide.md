@@ -7,7 +7,7 @@ Not all steps are required, this is just a guide of what you **COULD** do. You d
 Generally speaking, you need to:
 * [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
 * [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
-* Cut out USB C charging connector
+* [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#usb-c-cutout)
 * Glue in new LCD and mounting posts (3D printed or otherwise)
 * Stick in new LCD glass
 * Glue in speaker
@@ -126,6 +126,40 @@ Trim the glue down if necessary:
 [[images/CSO/BUILD/GBO_BUTTON_WELLS_GLUE/8.jpg]]
 
 ## USB C cutout
+This section will guide you through fitting the USB power input port. This is the USB port on the top right of the board, and is used for charging. NOTE that the images shown show a Micro USB port, but the same applies to the USB C port.
+
+Fit the board and using a marker, make marks for where to make the cut:
+
+[[images/CSO/BUILD/GBO_USB_POWER/1.jpg]]
+
+Join the dots:
+
+[[images/CSO/BUILD/GBO_USB_POWER/2.jpg]]
+
+Using a rotary tool or a knife start making cuts. Always cut it smaller than you need because you can use a knife to neaten up afterwards:
+
+[[images/CSO/BUILD/GBO_USB_POWER/3.jpg]]
+
+Rough cut:
+
+[[images/CSO/BUILD/GBO_USB_POWER/4.jpg]]
+
+Using a knife, carefully trim square:
+
+[[images/CSO/BUILD/GBO_USB_POWER/5.jpg]]
+
+Test fit with board and shell:
+
+[[images/CSO/BUILD/GBO_USB_POWER/6.jpg]]
+
+Neaten up more if necessary:
+
+[[images/CSO/BUILD/GBO_USB_POWER/7.jpg]]
+
+Trim and final fit:
+
+[[images/CSO/BUILD/GBO_USB_POWER/8.jpg]]
+
 ## Fit LCD (Hoolyhoo bracket)
 ## Fit LCD (Manually)
 ## Attach glass
