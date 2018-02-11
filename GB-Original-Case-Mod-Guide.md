@@ -195,7 +195,7 @@ This VECO 28mm speaker is my favourite and sounds pretty good! It does interfere
 
 Trim battery bay ONLY if the speaker interferes with it. If using the included speaker you won't need to do this:
 
-[[images/CSO/BUILD/GBO_SPEAKER_VECO/2.jpg]
+[[images/CSO/BUILD/GBO_SPEAKER_VECO/2.jpg]]
 
 [[images/CSO/BUILD/GBO_SPEAKER_VECO/3.jpg]]
 
