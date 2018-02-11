@@ -2,6 +2,7 @@
 ## Getting Started
 * [How to build - A step by step](https://github.com/kiteretro/Circuit-Sword/wiki/Step-by-Step-Build)
 * [FAQ](https://github.com/kiteretro/Circuit-Sword/wiki/FAQ)
+* [Known Issues](https://github.com/kiteretro/Circuit-Sword/wiki/Known-Issues)
 * [Mode Button Shortcut Keys](https://github.com/kiteretro/Circuit-Sword/wiki/Mode-Button-Shortcut-Keys)
 * [Configuration switches usage](https://github.com/kiteretro/Circuit-Sword/wiki/Configuration-Switches)
 ## Troubleshooting
