@@ -98,7 +98,41 @@ A: Yes it is, same is true of a Pi Zero too (although i wouldn't recommend it on
 The hardest part will be getting the HDMI port somewhere that you can access externally...
 
 ***
-### Q: Question
-A: Answer
+### Q: Do you know roughly how much space there is between the CPU of the CM3L and the back case of the shell?
+A: - In the front half of the shell, the CM3 protrudes 2.5mm above the LIP/EDGE of the shell
+- In the back half of the shell there is 8.5mm from the LIP/EDGE of the shell to the 'shelf' where the cartridge is
+So that means you have ~6mm of height above the CM with keeping the cart shelf and a cart inside there :) a 5mm heatsink is cutting it close but according to my measurements it will fit nicely
+
+***
+### Q: What about the CM3Lite's own second SD thingy, is that exposed on your board in any way ?
+A:  the "second SD interface" is already used by the WIFI chip on the board (it's called SDIO, and works for SDs and also a lot of WIFI adaptors) so that cannot be used. What I have done is made solder pads available for the "unused USB port" of the built in HUB, that you could use for ANYTHING !
+
+***
+### Q: Just wondering if you have broken out any additional GPIO also?
+A:  there is I2C available on the arduino and 1 extra gpio on the arduino. There are 4x analog pins (on the joystick connectors) that could be used for anything.
+
+ALSO on the Pi itself, there are a number of GPIO that I have broken out into 0.1" headers! I've broken out EVERY SINGLE GPIO on the compute module (there aren't any that are left unconnected) and also labelled them with their Pi type function so should make things easy. Here are 10x GPIOs you can do whatever you like with. I have some ideas what to do with some of them for future project mods.. the entire SPI bus is available there so technically you could get a TFT screen connected up! :P also I2C is there so you're spoilt for interfaces!
+
+***
+### Q: Is there enough room to place copper shims (like these) on the chips underneath the CM3?
+A: No, the chips UNDER the CM3 don't need a heatsink, the top one does though which the the CPU and the one that actually makes heat
+
+***
+### Q: are the leds going to be snap off ?
+A: LEDs are no longer snap off, that's a good point thought and there is JUST enough time to squeeze those in as solder pads.. you don't need to remove them (I'd advise to keep them there) but I'll add solder pads for you
+
+***
+### Q: What do you use to stick the fan to the pi ?
+A: I use some 3M double sided foam tape, and make little squares with 2x stuck on top of each other. Hint don't make the squares very big, the tape is SUPER sticky and is hard to get off if you put on too much :P
+
+***
+### Q: Next batch, are you going through a new design overhaul ?
+A: This is the first "overhaul" of the design (SAIO (PiZero/Pi3) to CSO (CM3)) and I have no plans to "overhaul" any time soon! I don't even know what I could possibly change to be honest! :P I do plan to continue my pattern of pre-order/sell .. I listen to feedback and if any improvements can be made between pre-orders I make those changes (e.g. the SAIO went from V0.5E1 (SMD solder) to V0.6C (through hole solder)) so any feedback will go into the designs :)
+
+The only ADDITION I'm thinking of making in the future (next batch) would be an optional back board (which would be an optional extra for like £5 or so) that gives you back the analog volume control (volume wheel). This would be backwards compatible with the current version, I just won't have it ready in time for this current order :)
+
+***
+### Q: How can i setup wifi without a keyboard attached to the board ?
+A: Follow this guide from user YaYa https://www.sudomod.com/forum/viewtopic.php?t=3567&view=unread#unread
 
 ***
