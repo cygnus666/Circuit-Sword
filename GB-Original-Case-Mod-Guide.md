@@ -12,8 +12,8 @@ Generally speaking, you need to:
 * [Stick in new LCD glass](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#attach-glass)
 * [Glue in speaker](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-speaker)
 * _(Optional)_ [Make holes for the status LEDs to shine through](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-led-status-holes)
-* Glue in the power switch and mode button
-* Add some kind of back buttons
+* [Glue in the power switch and mode button](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-power-switch-and-mode-button)
+* [Add some kind of back buttons](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-buttons)
 * [Add the back board](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-board)
 * _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-blank-cartridge)
 * _(Optional)_ Add a joystick
