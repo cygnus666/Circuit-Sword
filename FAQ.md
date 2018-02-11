@@ -33,3 +33,19 @@ A: The USB C is in the same place as the micro, it is marginally wider than the 
 A: I haven't designed it for that, not going to get too much into it but there are a whole host of issues with the cart slot SD so i've stayed away from it and to date haven't had a single SD issue
 
 ***
+### Q: do i really have to oreder the small fan as well? 
+A: It's not compulsory, you should really put a heatsink on 100% though to slow down the heat build up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits 80*C i think, so worst case performance will slow down and games may become really slow.. if you can find another fan or a huuuge heatsink then by all means go for it! :D It is a Pi3 afterall and if you have used a Pi3 you'll know that it can get quite toasty!
+
+***
+### Q: Will the board work with the custom 5500mAh battery in this forum ?
+A: Yes it will. Without problem
+
+***
+### Q: VOLUME CONTROL BIS REPETITA
+A: You may have noticed a blank component on the board.. this as actually connected to the C1/C2 buttons (th 5th and 6th front buttons) and there is a mode in the arduino code to change these to be VOLUP/VOLDOWN.. you can either solder some wires from them and place your own buttons, or you can solder a rocker switch in this position, cut a hole in the case, and bring back a kind of volume control
+
+***
+### Q: Where can i put the joystick ? Can i put it on the left bottom part of the shell ?
+A: The SAIO has a great big audio chip where on the front, the Circuit Sword has moved all this to the other side of the board.. the issue with SAIO is that you won't be able to fit the joystick there ! the CSO does away with all the completely and you can literally put it anywhere as there is next to nothing on that side of the board!
+
+***
