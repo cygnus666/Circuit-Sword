@@ -12,3 +12,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Cause:** The very first software image had a second delay between each check (at best case!)
 
 **Solution 1:** Update the software with [these simple steps](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi)).
+
+## Issue 3 - When in the 'raspi-setup' menu, the buttons are mapped wrong
+**Cause:** ES/Retropie mapped them wrong
+
+**Workaround 1:** In order to use the menu, press UP/DOWN to pick an item, then press RIGHT to change the selector to "OK" and then press "B" to select it! (Usually A is select, but in this menu only it is now "B"). Same applies to when enabling settings (e.g. SSH); press left/right to select option and "B" to select it.
