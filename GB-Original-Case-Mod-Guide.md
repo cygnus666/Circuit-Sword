@@ -14,7 +14,7 @@ Generally speaking, you need to:
 * _(Optional)_ [Make holes for the status LEDs to shine through](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-led-status-holes)
 * Glue in the power switch and mode button
 * Add some kind of back buttons
-* Add the back board
+* [Add the back board](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-board)
 * _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-blank-cartridge)
 * _(Optional)_ Add a joystick
 
@@ -244,6 +244,28 @@ The end result will let the LEDs shine through the opaque glue:
 ## Fit power switch and mode button
 ## Fit back buttons
 ## Fit back board
+The back board requires spacers to be soldered to set it to the right height, start by snapping out the spacers:
+
+[[images/CSO/BUILD/GBO_BACKBOARD/4.jpg]]
+
+You can use 2mm nuts/bolts to hold them ONE AT A TIME in position. Line the one hole with the WHITE circle around it with the one with the white circle on the board. They must line up as they are the same size:
+
+[[images/CSO/BUILD/GBO_BACKBOARD/5.jpg]]
+
+Using solder, fill the holes from both sides until they are joined. Repeat for the second spacer:
+
+[[images/CSO/BUILD/GBO_BACKBOARD/6.jpg]]
+
+When complete it should look as follows:
+
+[[images/CSO/BUILD/GBO_BACKBOARD/7.jpg]]
+
+Test fit:
+
+[[images/CSO/BUILD/GBO_BACKBOARD/8.jpg]]
+
+[[images/CSO/BUILD/GBO_BACKBOARD/14.jpg]]
+
 ## Fit blank cartridge
 Inserting a cartridge as is will work and friction will hold it in. If you want more space inside the shell then you can fit a fake cartridge (non removable) and free up a load of space.
 
