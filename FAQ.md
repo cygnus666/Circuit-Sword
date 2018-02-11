@@ -76,3 +76,29 @@ A: The whole kit is sold with a 320 screen. In case you order a 640 one, you wil
 A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO had a stereo amp but went End of Life (EOL) after I prototyped with it.. The AMP before it gets fed has an audio summing circuit, that converts the stereo to mono (to then go to the amp).. this all happens after the headphone jack, allowing stereo jack and mono amp! :) SO if you want stereo amp, you'll need to bring your own amp and unsolder some stuff 
 
 ***
+### Q: Is it possible to turn the screen all the way on or off through hardware? Could I fake a sleep mode? 
+A: the minimum brightness is set on the Arduino, so is possible to set it to "off". You'll have to do some tests, because when on the home screen (emulation station) it uses a fair bit of CPU.. there may be a way to reduce it, and also downclock the CPU?
+
+***
+### Q: Is it possible to have a full HD output from hdmi or just mirroring (cloning)? 
+A: Maybe if someone wants to spend more time with it! At the moment it mirrors 320x240 to HDMI. You COULD change it so that it outputs 1080P to HDMI and then MIRRORS that down to 320x240 however that will have a fairly large performance hit... i'm making some menu options to enable "one time reboot to HDMI" which will go to HDMI for the next boot only (the next boot will be to internal screen) so it kinda will do that :) it's all software stuff, so even if not available right now it's just a software update away ;)
+
+***
+### Q: Are you giving also give the cable option for the joystick in the kit ?
+A: Yes, I will include a 4pin cable with it.
+
+***
+### Q: Is the lcd included configured for 24-bit this time?
+A: No it's the same 18bit as before :)
+
+***
+### Q:  Is it possible to get HDMI-out working on those?
+A: Yes it is, same is true of a Pi Zero too (although i wouldn't recommend it on the zero). I saw someone (somewhere) made a script to toggle between HDMI and DPI (with a reboot) which would work right now, as for display cloning i've written a small app to do the cloning which will be made available closer to the time of the Circuit Sword being shipped (e.g. pre-made images with it in will be available)
+
+The hardest part will be getting the HDMI port somewhere that you can access externally...
+
+***
+### Q: Question
+A: Answer
+
+***
