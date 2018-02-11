@@ -21,3 +21,11 @@ A: Hoolyhoo’s bracket won’t work for the 640x480 screen. You will have no ro
 But after cutting the sides of the bracket, you can just put it on top of the screen and stick it and that way, you will have the screw posts still available for closing the case. Of course, this presumes you stick down the screen also
 
 ***
+### Q: How's the battery usage with the CM3 compared to a Pi Zero ? 
+A: Because all the regulators are mine (the compute module has no regulators of it's own (other than internal CPU ones)) it's actually pretty efficient! I'll get some better figures under use but under idle it's the same if not more efficient than a Zero :P which is a bit crazy !
+
+***
+### Q: Question
+A: Answer
+
+***
