@@ -17,7 +17,7 @@
 * [Circuit Sword Original V1.1E](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
 ### Electronics Setup
-* [Circuit Sword Original Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
+* [Circuit Sword Original Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 * [Fan and heatsink](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink)
 ### Case Modding
 * [GB Original Guide](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide)
