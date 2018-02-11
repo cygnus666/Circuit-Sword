@@ -30,8 +30,8 @@ This will enable the use of "RX0" and "TX0" as VOL DOWN and VOL UP.
 
 In order to change the hardware, you will need to use a knife and cut the traces here:
 
-<image>
+[[images/CSO/CSO_DIGITAL_AUDIO_1.PNG]]
 
 And then solder 2x wires here:
 
-<image>
+[[images/CSO/CSO_DIGITAL_AUDIO_2.PNG]]
