@@ -9,7 +9,7 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Solution 2:** Make some kind of extension (3D print a hat for it?)
 
 ## Issue 2 - The volume with button combo is very slow to update
-**Cause:** The very first software image had a second delay between each check (at best case!)
+**Cause:** The very first software image had a second delay between each check (at best case!). This ONLY affect the release v1.0.0 so if you used a release later than this, you don't need to update.
 
 **Solution 1:** Update the software with [these simple steps](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi)).
 
