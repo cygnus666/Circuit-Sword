@@ -64,3 +64,7 @@ A: read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes
 A: read here https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
 
 ***
+### Q: What can you say about sound ?
+A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO had a stereo amp but went End of Life (EOL) after I prototyped with it.. The AMP before it gets fed has an audio summing circuit, that converts the stereo to mono (to then go to the amp).. this all happens after the headphone jack, allowing stereo jack and mono amp! :) SO if you want stereo amp, you'll need to bring your own amp and unsolder some stuff 
+
+***
