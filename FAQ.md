@@ -49,3 +49,12 @@ A: You may have noticed a blank component on the board.. this as actually connec
 A: The SAIO has a great big audio chip where on the front, the Circuit Sword has moved all this to the other side of the board.. the issue with SAIO is that you won't be able to fit the joystick there ! the CSO does away with all the completely and you can literally put it anywhere as there is next to nothing on that side of the board!
 
 ***
+### Q: what are the outer and inner dimensions of the 640x480 screen?
+A: read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes#size
+
+***
+### Q: Which screen bracket should i use with the 640x480 screen
+A: read here https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
+
+***
+
