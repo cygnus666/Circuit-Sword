@@ -239,10 +239,17 @@ The end result will let the LEDs shine through the opaque glue:
 [[images/CSO/BUILD/GBO_LEDS/11.jpg]]
 
 ## (Optional) Fit joystick
+Fit joysticks by drilling a pilot hole for alignment, followed by a larger one suitable for the joystick. Use the same method as drilling the X and Y button holes. The joystick should be glued in well. 4pin JST cables are included that will wire up to the joystick solder points. See the MARKINGS on the Circuit Sword PCB for which pin does what. Don't assume that RED = + and BLACK = -
 
 # Back half of case
 ## Fit power switch and mode button
+The included power switch and mode button assembly plugs in with the 3pin cable that attaches to the back board. The power switch assembly should be glued in place. NOTE that the mode button is very short. Consider using some kind of extension, or replacing the button with a longer one (e.g. a "6mm tactile 2pin": [link](https://www.aliexpress.com/item/100Pcs-Tactile-Switch-Momentary-Tact-6x6x6-6-6-6mm-Middle-pin-2pins/32727102870.html))
+
 ## Fit back buttons
+The back board as two sets of bare wires. These are the back button wires. Each switch is activated by shorting the labelled pin to GND. The simplest way to have back buttons is to solder GND to one side of a button and L1 (etc) to the other side. When pressed it will make a short circuit and activate the button press.
+
+The included back button accessory allows use of the GBO rubber membranes and original buttons in place. Use glue to hold the bracket in place or follow the forums to see if someone makes a 3D printed adapter!
+
 ## Fit back board
 The back board requires spacers to be soldered to set it to the right height, start by snapping out the spacers:
 
