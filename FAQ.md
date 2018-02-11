@@ -25,7 +25,11 @@ But after cutting the sides of the bracket, you can just put it on top of the sc
 A: Because all the regulators are mine (the compute module has no regulators of it's own (other than internal CPU ones)) it's actually pretty efficient! I'll get some better figures under use but under idle it's the same if not more efficient than a Zero :P which is a bit crazy !
 
 ***
-### Q: Question
-A: Answer
+### Q: Will the cutout for the new USB C port have to be any different in position or size from the one for the old board?
+A: The USB C is in the same place as the micro, it is marginally wider than the Micro, when I put it in cases that i had previously made i just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also one minor thing is that it pokes out further so to fit it you HAVE to make the cutout.. the good news is that any USB C cable will fit, unlike previously you had to use a 7mm long micro one!
+
+***
+### Q: can i use the game Boy with custom SD card reader game cartridge
+A: I haven't designed it for that, not going to get too much into it but there are a whole host of issues with the cart slot SD so i've stayed away from it and to date haven't had a single SD issue
 
 ***
