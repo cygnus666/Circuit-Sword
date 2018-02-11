@@ -16,7 +16,7 @@ Generally speaking, you need to:
 * [Add some kind of back buttons](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-buttons)
 * [Add the back board](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-board)
 * _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-blank-cartridge)
-* _(Optional)_ Add a joystick
+* _(Optional)_ [Add a joystick](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-fit-joystick)
 
 # Front half of case
 ## Make the display hole bigger/cutting out the LCD space
