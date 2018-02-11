@@ -64,6 +64,14 @@ A: read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes
 A: read here https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
 
 ***
+### Q: Can i order the 640x480 screen later ?
+A: 640 can be ordered later, just email when/if you wanted one. seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) then cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.. 640 is only an option as people kept requesting it :P still trying to find a better fitting one..
+
+***
+### Q: I don't want the 320 screen but just the 640 one
+A: The whole kit is sold with a 320 screen. In case you order a 640 one, you will have a spare 320.
+
+***
 ### Q: What can you say about sound ?
 A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO had a stereo amp but went End of Life (EOL) after I prototyped with it.. The AMP before it gets fed has an audio summing circuit, that converts the stereo to mono (to then go to the amp).. this all happens after the headphone jack, allowing stereo jack and mono amp! :) SO if you want stereo amp, you'll need to bring your own amp and unsolder some stuff 
 
