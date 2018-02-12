@@ -9,7 +9,7 @@
 * [Running in 'TESTER' mode](https://github.com/kiteretro/Circuit-Sword/wiki/Running-in-TESTER-Mode)
 * [Troubleshooting (LCD/Power/USB/Software)](https://github.com/kiteretro/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
-* [Flashing software onto Compute Module](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module)
+* [Flashing software onto the Compute Module](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module)
 * [Updating the software](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
 ## Tweaks
