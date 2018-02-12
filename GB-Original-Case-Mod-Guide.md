@@ -246,9 +246,11 @@ Fit joysticks by drilling a pilot hole for alignment, followed by a larger one s
 The included power switch and mode button assembly plugs in with the 3pin cable that attaches to the back board. The power switch assembly should be glued in place. NOTE that the mode button is very short. Consider using some kind of extension, or replacing the button with a longer one (e.g. a "6mm tactile 2pin": [link](https://www.aliexpress.com/item/100Pcs-Tactile-Switch-Momentary-Tact-6x6x6-6-6-6mm-Middle-pin-2pins/32727102870.html))
 
 ## Fit back buttons
-The back board as two sets of bare wires. These are the back button wires. Each switch is activated by shorting the labelled pin to GND. The simplest way to have back buttons is to solder GND to one side of a button and L1 (etc) to the other side. When pressed it will make a short circuit and activate the button press.
+The back board has two sets of 3 bare wires. These are the back button wires. Each switch is activated by shorting the labelled pin to GND. The simplest way to have back buttons is to solder GND to one side of a button and L1 (etc) to the other side. When pressed it will make a short circuit and activate the button press.
 
 The included back button accessory allows use of the GBO rubber membranes and original buttons in place. Use glue to hold the bracket in place or follow the forums to see if someone makes a 3D printed adapter!
+
+You can use ANY form of buttons with this. One set of 3 is L1/L2/GND, and the other set is R1/R2/GND. GND is common everywhere, so you can solder the same GND cable to both buttons.
 
 ## Fit back board
 The back board requires spacers to be soldered to set it to the right height, start by snapping out the spacers:
