@@ -36,7 +36,7 @@ A: Yes it will. Without any problems.
 A: You may have noticed a blank component on the board.. this is actually connected to the C1/C2 buttons (the 5th and 6th front buttons) and there is a mode in the Arduino code to change these to be VOLUP/VOLDOWN.. you can either solder some wires from them and place your own buttons, or you can solder a rocker switch in this position, cut a hole in the case, and bring back a kind of volume control. See the page [here](https://github.com/kiteretro/Circuit-Sword/wiki/Digital-Volume-Guide) for details.
 
 ***
-### Q: I want analog volume control back, please?
+### Q: I want analog volume control back!
 A: Next pre-order will have an optional back board which will allow this. Check the latest pre-order.
 
 ***
@@ -44,7 +44,7 @@ A: Next pre-order will have an optional back board which will allow this. Check 
 A: The SAIO had a great big audio chip there on the front! The Circuit Sword has moved all this to the other side of the board.. the issue with SAIO is that you won't be able to fit the joystick there! The Circuit Sword does away with all that completely and you can literally put it anywhere as there is next to nothing on that side of the board!
 
 ***
-### Q: I want 2x joysticks, please?
+### Q: I want 2x joysticks!
 A: Do you really need 2x? Personally I don't think so but it's up to you!
 
 ***
@@ -52,55 +52,54 @@ A: Do you really need 2x? Personally I don't think so but it's up to you!
 A: Hoolyhoo’s original bracket won’t work for the 640x480 screen. You will have no room left and right to lower the bracket and make it sit. However he or other members on the forum may have a compatible bracket.
 
 ***
-### Q: what are the outer and inner dimensions of the 640x480 screen?
-A: Read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes#size
+### Q: What are the outer and inner dimensions of the 640x480 screen?
+A: Read here: https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes#size
 
 ***
-### Q: Which screen bracket should i use with the 640x480 screen
-A: read here https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
+### Q: Which screen bracket should I use with the 640x480 screen?
+A: Read here: https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
 
 ***
-### Q: Can i order the 640x480 screen later ?
-A: 640 can be ordered later, just email when/if you wanted one. seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) then cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.. 640 is only an option as people kept requesting it :P still trying to find a better fitting one..
+### Q: Can I order the 640x480 screen later?
+A: 640 can be ordered later, just email me when you want one. Seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) than cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.. 640 is only an option as people kept requesting it :P still trying to find a better fitting one..
 
 ***
-### Q: I don't want the 320 screen but just the 640 one
-A: The whole kit is sold with a 320 screen. In case you order a 640 one, you will have a spare 320.
+### Q: I don't want the 320 screen but just the 640 one!
+A: The whole kit is sold with a 320 screen. If you order a 640 one, you will have a spare 320.
 
 ***
-### Q: What can you say about sound ?
-A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO had a stereo amp but went End of Life (EOL) after I prototyped with it.. The AMP before it gets fed has an audio summing circuit, that converts the stereo to mono (to then go to the amp).. this all happens after the headphone jack, allowing stereo jack and mono amp! :) SO if you want stereo amp, you'll need to bring your own amp and unsolder some stuff 
+### Q: What can you say about sound?
+A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO had a stereo amp but went End of Life (EOL) after I prototyped with it.. The AMP before it gets fed has an audio summing circuit that converts the stereo to mono (to then go to the amp).. this all happens after the headphone jack, allowing stereo jack and mono amp! SO if you want stereo amp, you'll need to bring your own amp and unsolder some stuff.
 
 ***
 ### Q: Is it possible to turn the screen all the way on or off through hardware? Could I fake a sleep mode? 
-A: the minimum brightness is set on the Arduino, so is possible to set it to "off". You'll have to do some tests, because when on the home screen (emulation station) it uses a fair bit of CPU.. there may be a way to reduce it, and also downclock the CPU?
+A: The minimum brightness is set on the Arduino, so it is possible to set it to "off". You'll have to do some tests, because when on the home screen (emulation station) it uses a fair bit of CPU.. there may be a way to reduce it, and also downclock the CPU?
 
 ***
-### Q: Is it possible to have a full HD output from hdmi or just mirroring (cloning)? 
-A: Maybe if someone wants to spend more time with it! At the moment it mirrors 320x240 to HDMI. You COULD change it so that it outputs 1080P to HDMI and then MIRRORS that down to 320x240 however that will have a fairly large performance hit... i'm making some menu options to enable "one time reboot to HDMI" which will go to HDMI for the next boot only (the next boot will be to internal screen) so it kinda will do that :) it's all software stuff, so even if not available right now it's just a software update away ;)
+### Q: Is it possible to have a full HD output from HDMI or just mirroring (cloning)? 
+A: Maybe if someone wants to spend more time with it! At the moment it mirrors 320x240 to HDMI. You COULD change it so that it outputs 1080P to HDMI and then MIRRORS that down to 320x240 however that will have a fairly large performance hit... I'm making some menu options to enable "one time reboot to HDMI" which will go to HDMI for the next boot only (the next boot will be to internal screen) so it kind of will do that. It's all software stuff, so even if not available right now it's just a software update away!
 
 ***
-### Q: Are you giving also give the cable option for the joystick in the kit ?
+### Q: Are you also giving the cable option for the joystick in the kit?
 A: Yes, I will include a 4pin cable with it.
 
 ***
-### Q: Is the lcd included configured for 24-bit this time?
-A: No it's the same 18bit as before :)
+### Q: Is the LCD included configured for 24-bit this time?
+A: No, it's the same 18bit as before.
 
 ***
 ### Q: Do you know roughly how much space there is between the CPU of the CM3L and the back case of the shell?
-A: - In the front half of the shell, the CM3 protrudes 2.5mm above the LIP/EDGE of the shell
-- In the back half of the shell there is 8.5mm from the LIP/EDGE of the shell to the 'shelf' where the cartridge is
-So that means you have ~6mm of height above the CM with keeping the cart shelf and a cart inside there :) a 5mm heatsink is cutting it close but according to my measurements it will fit nicely
+A: - In the front half of the shell, the CM3 protrudes 2.5mm above the LIP/EDGE of the shell.
+- In the back half of the shell there is 8.5mm from the LIP/EDGE of the shell to the 'shelf' where the cartridge is.
+So that means you have ~6mm of height above the CM with keeping the cart shelf and a cart inside there. A 5mm heatsink is cutting it close but according to my measurements it will fit nicely.
 
 ***
-### Q: What about the CM3Lite's own second SD thingy, is that exposed on your board in any way ?
-A:  the "second SD interface" is already used by the WIFI chip on the board (it's called SDIO, and works for SDs and also a lot of WIFI adaptors) so that cannot be used. What I have done is made solder pads available for the "unused USB port" of the built in HUB, that you could use for ANYTHING !
+### Q: What about the CM3Lite's own second SD thingy, is that exposed on your board in any way?
+A:  The "second SD interface" is already used by the WiFi chip on the board (it's called SDIO, and works for SDs and also a lot of WiFi adaptors) so that cannot be used. What I have done is made solder pads available for the "unused USB port" of the built-in HUB that you could use for ANYTHING!
 
 ***
 ### Q: Just wondering if you have broken out any additional GPIO also?
-A:  there is I2C available on the arduino and 1 extra gpio on the arduino. There are 4x analog pins (on the joystick connectors) that could be used for anything.
-
+A:  There is I2C available on the Arduino and 1 extra gpio on the Arduino. There are 4x analog pins (on the joystick connectors) that could be used for anything.
 ALSO on the Pi itself, there are a number of GPIO that I have broken out into 0.1" headers! I've broken out EVERY SINGLE GPIO on the compute module (there aren't any that are left unconnected) and also labelled them with their Pi type function so should make things easy. Here are 10x GPIOs you can do whatever you like with. I have some ideas what to do with some of them for future project mods.. the entire SPI bus is available there so technically you could get a TFT screen connected up! :P also I2C is there so you're spoilt for interfaces!
 
 ***
