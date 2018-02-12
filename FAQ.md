@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ### Q: When will the next pre-order open?
-A: To receive all the latest updates follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)) or join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82).
+A: To receive all the latest updates follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)) or join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82). Both will get notifications of upcoming pre-orders for the Circuit Sword, or any other products (e.g. VMU).
 
 ***
 ### Q: How will the new-style Volume Control function now that the dial has been taken out?
