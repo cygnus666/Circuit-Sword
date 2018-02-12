@@ -121,4 +121,4 @@ A: Follow this guide from user YaYa: https://www.sudomod.com/forum/viewtopic.php
 
 ***
 ### Q: I can't find the answer I'm looking for! How do I contact you?
-A: If you can't find the answer you're looking for, send me an email and I will get back to you as soon as I can. Email: kite@kitesitemshop.com
+A: Email: kite@kitesitemshop.com
