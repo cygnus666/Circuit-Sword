@@ -92,12 +92,6 @@ A: Yes, I will include a 4pin cable with it.
 A: No it's the same 18bit as before :)
 
 ***
-### Q:  Is it possible to get HDMI-out working on those?
-A: Yes it is, same is true of a Pi Zero too (although i wouldn't recommend it on the zero). I saw someone (somewhere) made a script to toggle between HDMI and DPI (with a reboot) which would work right now, as for display cloning i've written a small app to do the cloning which will be made available closer to the time of the Circuit Sword being shipped (e.g. pre-made images with it in will be available)
-
-The hardest part will be getting the HDMI port somewhere that you can access externally...
-
-***
 ### Q: Do you know roughly how much space there is between the CPU of the CM3L and the back case of the shell?
 A: - In the front half of the shell, the CM3 protrudes 2.5mm above the LIP/EDGE of the shell
 - In the back half of the shell there is 8.5mm from the LIP/EDGE of the shell to the 'shelf' where the cartridge is
