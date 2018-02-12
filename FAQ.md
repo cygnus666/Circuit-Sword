@@ -130,3 +130,5 @@ The only ADDITION I'm thinking of making in the future (next batch) would be an 
 A: Follow this guide from user YaYa https://www.sudomod.com/forum/viewtopic.php?t=3567&view=unread#unread
 
 ***
+### Q: I need to contact you
+A: Please send an email to kite@kitesitemshop.com
