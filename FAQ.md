@@ -4,8 +4,8 @@
 A: Answer
 
 ***
-### Q: When will the next preorder open ?
-A: Get notified by filling this form https://goo.gl/forms/e97uUvPOfUxPWdz82
+### Q: When will the next pre-order open ?
+A: Get notified by joining my mailing list https://goo.gl/forms/e97uUvPOfUxPWdz82
 
 ***
 ### Q: How will the new-style Volume Control function now that the dial has been taken out?
@@ -17,11 +17,11 @@ A: You would use WIFI to transfer things over, the USB allows for uploading code
 
 ***
 ### Q: How's the battery usage with the CM3 compared to a Pi Zero ? 
-A: Because all the regulators are mine (the compute module has no regulators of it's own (other than internal CPU ones)) it's actually pretty efficient! On max load and full brightness/wifi/volume/etc it will draw 500mA, on idle it will draw about 250-300mA (@4.2V)
+A: Because all the regulators are mine (the compute module has no regulators of its own (other than internal CPU ones)) it's actually pretty efficient! On max load and full brightness/wifi/volume/etc it will draw 500mA, on idle it will draw about 250-300mA (@4.2V)
 
 ***
 ### Q: Will the cutout for the new USB C port have to be any different in position or size from the one for the old board?
-A: The USB C is in the same place as the micro, it is marginally wider than the Micro, when I put it in cases that i had previously made i just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also one minor thing is that it pokes out further so to fit it you HAVE to make the cutout.. the good news is that any USB C cable will fit, unlike previously you had to use a 7mm long micro one!
+A: The USB C is in the same place as the micro, it is marginally wider than the Micro, when I put it in cases that I had previously made I just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also one minor thing is that it pokes out further so to fit it you HAVE to make the cutout.. the good news is that any USB C cable will fit, unlike previously you had to use a 7mm long micro one!
 
 ***
 ### Q: can i use the game Boy with custom SD card reader game cartridge
