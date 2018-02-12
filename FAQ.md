@@ -8,15 +8,15 @@ A: To receive all the latest updates follow me on Instagram ([@kiteretro](https:
 A: The volume control is handled by the ATMEGA, and is adjusted using a [button combo](https://github.com/kiteretro/Circuit-Sword/wiki/Mode-Button-Shortcut-Keys). The ATMEGA stores the volume level and the Pi reads this data back and applies it to the OS volume level. There is a slight delay in updating the volume.
 
 ***
-### Q: Can I use a USB A to C cable to transfer data from my pc to the gameboy? Can any data transfer over that port.
-A: You would use WIFI to transfer things over, the USB allows for uploading code to arduino, or for flashing the SD card (but you could just take the SD card out and do it like that). It's the same as the Pi Zero where plugging in the USB doesn't allow data transfer but you use wifi instead
+### Q: Can I use a USB A to C cable to transfer data from my PC to the Game Boy? Can any data transfer over that port.
+A: You would use WiFi to transfer things over. The USB allows for uploading code to Arduino or for flashing the SD card (but you could just take the SD card out and do it like that). It's the same as the Pi Zero where plugging in the USB doesn't allow data transfer but you use WiFi instead.
 
 ***
 ### Q: How's the battery usage with the CM3 compared to a Pi Zero ? 
-A: Because all the regulators are mine (the compute module has no regulators of its own (other than internal CPU ones)) it's actually pretty efficient! On max load and full brightness/wifi/volume/etc it will draw 500mA, on idle it will draw about 250-300mA (@4.2V)
+A: Because all the regulators are mine (the compute module has no regulators of its own other than internal CPU ones) it's actually pretty efficient! On max load and full brightness/WiFi/volume/etc it will draw 500mA. On idle it will draw about 250-300mA (@4.2V).
 
 ***
-### Q: Will the cutout for the new USB C port have to be any different in position or size from the one for the old board?
+### Q: Will the cut-out for the new USB C port have to be any different in position or size from the one for the old board?
 A: The USB C is in the same place as the micro, it is marginally wider than the Micro, when I put it in cases that I had previously made I just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also one minor thing is that it pokes out further so to fit it you HAVE to make the cutout.. the good news is that any USB C cable will fit, unlike previously you had to use a 7mm long micro one!
 
 ***
