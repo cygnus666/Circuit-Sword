@@ -24,36 +24,36 @@ A: The USB C is in the same place as the Micro. It is marginally wider than the 
 A: I haven't designed it for that. I'm not going to go into it too much but there are a whole host of issues with the cart slot SD so I've stayed away from it and to date haven't had a single SD issue. If you did want something in the cartridge slot, then get a USB to SD adapter and wire it to the free USB port on the board. You could also do this with a full-sized USB port and have a memory stick inside the cartridge.
 
 ***
-### Q: do i really have to oreder the small fan as well? 
-A: It's not compulsory, you should really put a heatsink on 100% though to slow down the heat build up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits 80*C i think, so worst case performance will slow down and games may become really slow.. if you can find another fan or a huuuge heatsink then by all means go for it! :D It is a Pi3 afterall and if you have used a Pi3 you'll know that it can get quite toasty! I would recommend the fan.
+### Q: Do I really have to order the small fan as well? 
+A: It's not compulsory, but you should really put a heatsink on 100% to slow down the heat build-up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits 80*C I think, so worst case scenario performance will slow down and games may become really slow.. if you can find another fan or a huge heatsink then by all means go for it. It is a Pi3 after all and if you have used a Pi3 you'll know that it can get quite toasty! I would recommend the fan.
 
 ***
-### Q: Will the board work with the custom 5500mAh battery in this forum ?
-A: Yes it will. Without problem
+### Q: Will the board work with the custom 5500mAh battery in this forum?
+A: Yes it will. Without any problems.
 
 ***
 ### Q: Digital Volume Control Alternative?
-A: You may have noticed a blank component on the board.. this as actually connected to the C1/C2 buttons (th 5th and 6th front buttons) and there is a mode in the arduino code to change these to be VOLUP/VOLDOWN.. you can either solder some wires from them and place your own buttons, or you can solder a rocker switch in this position, cut a hole in the case, and bring back a kind of volume control. See the page [here](https://github.com/kiteretro/Circuit-Sword/wiki/Digital-Volume-Guide) for details.
+A: You may have noticed a blank component on the board.. this is actually connected to the C1/C2 buttons (the 5th and 6th front buttons) and there is a mode in the Arduino code to change these to be VOLUP/VOLDOWN.. you can either solder some wires from them and place your own buttons, or you can solder a rocker switch in this position, cut a hole in the case, and bring back a kind of volume control. See the page [here](https://github.com/kiteretro/Circuit-Sword/wiki/Digital-Volume-Guide) for details.
 
 ***
-### Q: I want analog volume control back
+### Q: I want analog volume control back, please?
 A: Next pre-order will have an optional back board which will allow this. Check the latest pre-order.
 
 ***
-### Q: Where can i put the joystick ? Can i put it on the left bottom part of the shell ?
-A: The SAIO had a great big audio chip where on the front, the Circuit Sword has moved all this to the other side of the board.. the issue with SAIO is that you won't be able to fit the joystick there ! the CSO does away with all the completely and you can literally put it anywhere as there is next to nothing on that side of the board!
+### Q: Where can I put the joystick? Can I put it on the left bottom part of the shell?
+A: The SAIO had a great big audio chip there on the front! The Circuit Sword has moved all this to the other side of the board.. the issue with SAIO is that you won't be able to fit the joystick there! The Circuit Sword does away with all that completely and you can literally put it anywhere as there is next to nothing on that side of the board!
 
 ***
-### Q: I want 2x joysticks
+### Q: I want 2x joysticks, please?
 A: Do you really need 2x? Personally I don't think so but it's up to you!
 
 ***
-### Q: Can i use HoolyHoo's screen brackets with the 640x480 screen ? (sold as an option)
+### Q: Can I use HoolyHoo's screen brackets with the 640x480 screen?
 A: Hoolyhoo’s original bracket won’t work for the 640x480 screen. You will have no room left and right to lower the bracket and make it sit. However he or other members on the forum may have a compatible bracket.
 
 ***
 ### Q: what are the outer and inner dimensions of the 640x480 screen?
-A: read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes#size
+A: Read here https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Notes#size
 
 ***
 ### Q: Which screen bracket should i use with the 640x480 screen
