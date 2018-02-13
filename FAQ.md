@@ -29,13 +29,21 @@ A: PLEASE MAKE SURE YOUR DELIVERY ADDRESS IS UP TO DATE! If your delivery addres
 1. Your items have already been packaged and given a tracking number when you email to update your delivery address.
 2. Your items have already been shipped when you email to update your delivery address.
 3. Your items are returned to me and need to be shipped again.
-Should your items not return to me successfully, it is your responsibility to follow up with the mail carrier.
+
+Should your items not be returned to me successfully, it is your responsibility to follow up with the mail carrier.
 
 ***
 ### Q: What if I change my mind? What is your returns policy?
 A: I issue full refunds on all pre-orders cancelled before pre-orders close. Cancellations made after pre-orders close will not be processed. All items are tested to ensure that they are in good working condition before they are shipped, but should your item arrive damaged or faulty please contact me within 30 days to request a replacement/repair: kite@kitesitemshop.com.
 
-Note that this is a PRE-ORDER. The money you pay to me is then paid directly to a circuit board manufacturer and four independent accessories suppliers. While I do everything in my power to reduce any risks and have been working with the same manufacturer and suppliers for nearly 2 years, this means that in the unlikely event I don't receive all of the items promised you will not receive a full refund. You will only receive a partial refund (naturally, postage will be refunded in full).
+Note that this is a PRE-ORDER. The money you pay to me is then paid directly to a circuit board manufacturer and four independent accessories suppliers. While I do everything in my power to reduce any risks and have been working with the same manufacturer and suppliers for 2+ years, this means that in the unlikely event I don't receive all of the items promised you will not receive a full refund. You will only receive a partial refund (naturally, postage will be refunded in full).
+
+### Q: Do you test your items before you ship them?
+A: Yes! I test and package all of my items by hand before shipping them.
+
+***
+### Q: Can I buy you a coffee?
+A: Yes! I now have a [Ko-fi](https://ko-fi.com/kiteretro) page!
 
 ***
 ### Q: I can't find the answer I'm looking for! How do I contact you?
