@@ -43,8 +43,13 @@ A: I issue full refunds on all pre-orders cancelled before pre-orders close. Can
 
 Note that this is a PRE-ORDER. The money you pay to me is then paid directly to a circuit board manufacturer and four independent accessories suppliers. While I do everything in my power to reduce any risks and have been working with the same manufacturer and suppliers for 2+ years, this means that in the unlikely event I don't receive all of the items promised you will not receive a full refund. You will only receive a partial refund (naturally, postage will be refunded in full).
 
+***
 ### Q: Do you test your items before you ship them?
 A: Yes! I test and package all of my items by hand before shipping them.
+
+***
+### Q: Do you have a beginner's guide to setting up the Circuit Sword? Is there customer support?
+A: A step-by-step guide to setting up the Circuit Sword can be found [HERE](https://github.com/kiteretro/Circuit-Sword/wiki/Step-by-Step-Build). The best place to go for Circuit Sword customer support is my [sudomod support forum](https://www.sudomod.com/forum/viewforum.php?f=51&sid=ef2d5c6a9a589e15c50656075e6e7359).
 
 ***
 ### Q: Can I buy you a coffee?
