@@ -25,7 +25,7 @@ A: I haven't designed it for that. I'm not going to go into it too much but ther
 A: It's not compulsory, but you should really put a heatsink on 100% to slow down the heat build-up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits 80*C I think, so worst case scenario performance will slow down and games may become really slow.. if you can find another fan or a huge heatsink then by all means go for it. It is a Pi3 after all and if you have used a Pi3 you'll know that it can get quite toasty! I would recommend the fan.
 
 ***
-### Q: Will the board work with the custom 5500mAh battery in this forum?
+### Q: Will the board work with the custom 5500mAh battery from the forum?
 A: Yes it will. Without any problems.
 
 ***
@@ -42,7 +42,7 @@ A: The SAIO had a great big audio chip there on the front! The Circuit Sword has
 
 ***
 ### Q: I want 2x joysticks!
-A: Do you really need 2x? Personally I don't think so but it's up to you!
+A: Do you really need 2x? Personally I don't think so but it's up to you! The board supports 2x joysticks.
 
 ***
 ### Q: Can I use HoolyHoo's screen brackets with the 640x480 screen?
@@ -58,7 +58,7 @@ A: Read here: https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
 
 ***
 ### Q: Can I order the 640x480 screen later?
-A: 640 can be ordered later, just email me when you want one. Seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) than cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.. 640 is only an option as people kept requesting it :P still trying to find a better fitting one..
+A: 640 can be ordered later, just email me when you want one. Seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) than cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.
 
 ***
 ### Q: I don't want the 320 screen but just the 640 one!
@@ -70,7 +70,7 @@ A: The audio at the jack is STEREO, the AMP is MONO only (the VERY first SAIO ha
 
 ***
 ### Q: Is it possible to turn the screen all the way on or off through hardware? Could I fake a sleep mode? 
-A: The minimum brightness is set on the Arduino, so it is possible to set it to "off". You'll have to do some tests, because when on the home screen (emulation station) it uses a fair bit of CPU.. there may be a way to reduce it, and also downclock the CPU?
+A: The minimum brightness is set on the Arduino, so it is possible to set it to "off" by editing the code. The Pi does not have a sleep state, so will always be consuming a large amount of power when on.
 
 ***
 ### Q: Is it possible to have a full HD output from HDMI or just mirroring (cloning)? 
@@ -78,18 +78,18 @@ A: Maybe if someone wants to spend more time with it! At the moment it mirrors 3
 
 ***
 ### Q: Are you also giving the cable option for the joystick in the kit?
-A: Yes, I will include a 4pin cable with it.
+A: Yes, I will include 2x 4pin cables with it.
 
 ***
-### Q: Is the LCD included configured for 24-bit this time?
-A: No, it's the same 18bit as before.
+### Q: What bit depth is the LCD?
+A: The LCD is configured to 18bit depth. As an FYI the Pi is default configured to output 16bit colour so there is currently no loss in colour information.
 
 ***
 ### Q: Do you know roughly how much space there is between the CPU of the CM3L and the back case of the shell?
 A: In the front half of the shell, the CM3 protrudes 2.5mm above the LIP/EDGE of the shell. In the back half of the shell there is 8.5mm from the LIP/EDGE of the shell to the 'shelf' where the cartridge is. So that means you have ~6mm of height above the CM with keeping the cart shelf and a cart inside there. A 5mm heatsink is cutting it close but according to my measurements it will fit nicely.
 
 ***
-### Q: What about the CM3Lite's own second SD thingy, is that exposed on your board in any way?
+### Q: What about the CM3Lite's own second SD card, is that exposed on your board in any way?
 A:  The "second SD interface" is already used by the WiFi chip on the board (it's called SDIO, and works for SDs and also a lot of WiFi adaptors) so that cannot be used. What I have done is made solder pads available for the "unused USB port" of the built-in HUB that you could use for ANYTHING!
 
 ***
@@ -110,7 +110,7 @@ A: I use some 3M double-sided foam tape, and make little squares with 2x stuck o
 
 ***
 ### Q: Next batch, are you going through a new design overhaul?
-A: This is the first "overhaul" of the design (SAIO (PiZero/Pi3) to CSO (CM3)) and I have no plans to "overhaul" any time soon! I don't even know what I could possibly change to be honest! I do plan to continue my pattern of pre-orders.. I listen to feedback and if any improvements can be made between pre-orders I make those changes (e.g. the SAIO went from V0.5E1 (SMD solder) to V0.6C (through hole solder)) so any feedback will go into the designs! The only ADDITION I'm thinking of making in the future (next batch) would be an optional back board (which would be an optional extra for like £5 or so) that gives you back the analog volume control (volume wheel). This would be backwards compatible with the current version, I just won't have it ready in time for this current order.
+A: Changes to design will be mentioned on the pre-order page. Currently no major updates are planned.
 
 ***
 ### Q: How can I set up WiFi without a keyboard attached to the board?
