@@ -3,8 +3,8 @@
 ### Q: What is the Circuit Sword?
 A: The Circuit Sword is a single circuit board that contains all the required power/logic/io/peripherals to run a Raspberry Pi Compute Module 3. This makes the Circuit Sword a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability and ease of use, and so features battery charging and power/shutdown management as well as button input, LCD and audio output. The Circuit Sword is a perfect fit for retro handheld console form factors and they can provide a safe and secure enclosure for the board.
 
-### Q: When will the next pre-order open?
-A: To receive all the latest updates follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)) or join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82). Both will get notifications of upcoming pre-orders for the Circuit Sword, or any other products (e.g. VMU).
+### Q: When do pre-orders open?
+A: To receive all the latest updates: 1. Follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)). 2. Follow me on Twitter ([@kiteretro](https://twitter.com/kiteretro)). 3. Join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82). You will be notified when pre-orders open AND new items are released!
 
 ***
 ### Q: How much will it cost?
