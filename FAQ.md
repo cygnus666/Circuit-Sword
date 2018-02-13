@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
-### Q: What is the Circuit Sword? How much will it cost? What accessories are included?
-A: The Circuit Sword is a single circuit board that contains all the required power/logic/io/peripherals to run a Raspberry Pi Compute Module 3. This makes the Circuit Sword a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability and ease of use, and so features battery charging and power/shutdown management as well as button input, LCD and audio output. The Circuit Sword is a perfect fit for retro handheld console form factors and they can provide a safe and secure enclosure for the board. When the pre-order opens the cost of all items will be shown.
+### Q: What is the Circuit Sword? How much does it cost? What accessories are included with it?
+A: The Circuit Sword is a circuit board that contains everything required to run a Raspberry Pi Compute Module 3. It is a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability, power management, button input, LCD and audio output. The Circuit Sword is the perfect Raspberry Pi computer for retro gaming fans. The price of the Circuit Sword will be shown on the relevant listing when pre-orders open. Accessories included with the Circuit Sword vary between listings based on customer feedback, but usually the following items are included: a Raspberry Pi Compute Module 3 Lite, a 320x240 LCD, a back board (for USB and HDMI), a power switch board, a speaker, a heatsink, a second back board (for additional buttons) and connecting wires.
 
 ### Q: When do pre-orders open?
 A: To receive all the latest updates:
