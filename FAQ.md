@@ -8,6 +8,10 @@ A: To receive all the latest updates follow me on Instagram ([@kiteretro](https:
 A: When the pre-order is opened, the individual item cost will be shown
 
 ***
+### Q: How does the pre-order work? Is it here yet?
+A: At an announced date/time a forum post will be created that contains all the information about the order including links to purchase. This purchase window will be open for 2 weeks. Once closed, all orders are counted and verified and then manufacture of the products starts. It takes around 2-3 months for the products to be fully made. When they arrive to me, I test and package each order and ship out within 1 week. The total time from order placement to product arrival is around 3-4 months.
+
+***
 ### Q: Do you ship to .. ?
 A: Shipping is calculated at checkout, PayPal doesn't implement a nice set of shipping options (but only if you have a US seller account, go figure..) so prices are set at an international rate! Sorry UK people but I have to charge the full amount, refunds aren't possible due to time (they will arrive next day after posting tho!). ALL shipments are sent first class tracked by RoyalMail and will require a signature. Tracking information will make its way to you once shipped!
 
