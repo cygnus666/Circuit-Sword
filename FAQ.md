@@ -8,6 +8,7 @@ A: To receive all the latest updates:
 1. Follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)).
 2. Follow me on Twitter ([@kiteretro](https://twitter.com/kiteretro)).
 3. Join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82).
+
 You will be notified when pre-orders open AND new items are released!
 
 ***
@@ -23,12 +24,8 @@ A: At an announced date/time a forum post will be created that contains all the 
 A: When those products have been fully completed and are ready for manufacture, and [email/post](https://github.com/kiteretro/Circuit-Sword/wiki/FAQ#q-when-will-the-next-pre-order-open) will go up about them.
 
 ***
-### Q: Do you ship to .. ?
-A: Shipping is calculated at checkout, PayPal doesn't implement a nice set of shipping options (but only if you have a US seller account, go figure..) so prices are set at an international rate! Sorry UK people but I have to charge the full amount, refunds aren't possible due to time (they will arrive next day after posting tho!). ALL shipments are sent first class tracked by RoyalMail and will require a signature. Tracking information will make its way to you once shipped!
-
-Shipping **only** to **the United Kingdom, the United States, Canada, Europe, Australlia, New Zealand, Brazil** and **Japan**. (You will get a refund if you are not in one of these zones).
-
-If you have any special postage requirements, please include in the order notes.
+### Q: Where do you ship to? How are your items shipped?
+A: I ship to the United Kingdom, the United States, Canada, Europe, Australia, New Zealand and Japan (orders from countries outside of this list will not be processed). All items are shipped with tracking information via Royal Mail and will require a signature. Due to PayPal limitations all orders will be charged the international rate for postage (sorry UK customers). If you have any special postage requirements please include them in the notes section of your order.
 
 ***
 ### Q: How does ordering work? I've changed my mind!
