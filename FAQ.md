@@ -17,12 +17,12 @@ A: To receive all the latest updates:
 You will be notified when pre-orders open AND new items are released!
 
 ***
-### Q: How does the pre-order work? Is it here yet?
-A: At an announced date/time a forum post will be created that contains all the information about the order including links to purchase. This purchase window will be open for 2 weeks. Once closed, all orders are counted and verified and then manufacture of the products starts. It takes around 2-3 months for the products to be fully made. When they arrive to me, I test and package each order and ship out within 1 week. The total time from order placement to product arrival is around 3-4 months.
+### Q: How do I pre-order?
+A: Links to pre-orders will be provided via [Instagram](https://www.instagram.com/kiteretro/), [Twitter](https://twitter.com/kiteretro) and [email](https://docs.google.com/forms/d/e/1FAIpQLSfldWlIw2rxYdskP0xUDHvfQ84TIoc2HVhtLfzHKCbf89E-6Q/viewform) when they go live. Follow the link to the pre-order you're interested in and it will take you to a listing on [sudomod](https://www.sudomod.com/) that will provide you with all of the information you need to pre-order the items you want. Pre-orders always open for 2 weeks. Pre-orders are processed via PayPal. For combined shipping, I recommend opening a new tab for each item you want to pre-order so that you can add multiple items to your cart before proceeding to checkout. If you experience any problems, please feel free to contact me: kite@kitesitemshop.com.
 
 ***
-### Q: How do I pre-order?
-A: Payment is by PayPal, I have used the 'add to cart' functionality and when you click the buttons above it will take you to a PayPal cart (you can keep adding things to the cart if you come back to this page, I suggest 'right click -> open in a new tab/window'). PayPal offers full buyer protection, any issues please get in contact with me first!
+### Q: How long until I receive my items?
+A: From pre-order to postage = approximately 3 months. The Circuit Sword is a high-quality item so the manufacturing process takes time, but rest assured that as soon as they are ready they will be tested, packaged and shipped immediately with the utmost care! Thank you for your patience.
 
 ***
 ### Q: Where do you ship to? How are your items shipped?
