@@ -1,8 +1,13 @@
 # Frequently Asked Questions
 
 ### Q: What is the Circuit Sword? How much does it cost? What accessories are included with it?
-A: The Circuit Sword is a circuit board that contains everything required to run a Raspberry Pi Compute Module 3. It is a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability, power management, button input, LCD and audio output. The Circuit Sword is the perfect Raspberry Pi computer for retro gaming fans. The price of the Circuit Sword will be shown on the relevant listing when pre-orders open. Accessories included with the Circuit Sword vary between listings based on customer feedback, but usually the following items are included: a Raspberry Pi Compute Module 3 Lite, a 320x240 LCD, a back board (for USB and HDMI), a power switch board, a speaker, a heatsink, a second back board (for additional buttons) and connecting wires.
+A: The Circuit Sword is a circuit board that contains everything required to run a Raspberry Pi Compute Module 3. It is a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability, power management, button input, LCD and audio output. The Circuit Sword is the perfect Raspberry Pi computer for retro gaming fans. The price of the Circuit Sword will be shown on the relevant [sudomod](https://www.sudomod.com/) listing when pre-orders open. Accessories included with the Circuit Sword vary between listings based on customer feedback, but usually the following items are included: a Raspberry Pi Compute Module 3 Lite, a 320x240 LCD, a back board (for USB and HDMI), a power switch board, a speaker, a heatsink, a second back board (for additional buttons) and connecting wires.
 
+***
+### Q: Are other accessories available with the Circuit Sword? How much do they cost?
+A: Other accessories available with the Circuit Sword include a 640x480 HD LCD and a back board with a volume wheel instead of HDMI output. The price of these optional accessories will be shown on the relevant [sudomod](https://www.sudomod.com/) listing when pre-orders open.
+
+***
 ### Q: When do pre-orders open?
 A: To receive all the latest updates:
 1. Follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)).
