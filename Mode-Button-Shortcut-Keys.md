@@ -5,6 +5,10 @@ The 'MODE' button has a couple of uses:
 2. When the power switch is OFF, while the Pi is running, pressing the mode button will insta-kill the power! This is useful specifically if the Pi freezes or crashes, and is a way to force a power down (alternative would be to remove the battery)
 
 ## Button Combos
+* MODE + UP = VOL UP
+* MODE + DOWN = VOL DOWN
+* MODE + RIGHT = BACKLIGHT BRIGHTNESS UP
+* MODE + LEFT = BACKLIGHT BRIGHTNESS DOWN
 * MODE + A = WIFI ENABLE
 * MODE + B = WIFI DISABLE
 * MODE + Y = AUDIO AMP OFF
