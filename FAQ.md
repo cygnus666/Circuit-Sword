@@ -1,5 +1,8 @@
 # Frequently Asked Questions
 
+### Q: What is the Circuit Sword?
+A: The Circuit Sword is a single circuit board that contains all the required power/logic/io/peripherals to run a Raspberry Pi Compute Module 3. This makes the Circuit Sword a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability and ease of use, and so features battery charging and power/shutdown management as well as button input, LCD and audio output. The Circuit Sword is a perfect fit for retro handheld console form factors and they can provide a safe and secure enclosure for the board.
+
 ### Q: When will the next pre-order open?
 A: To receive all the latest updates follow me on Instagram ([@kiteretro](https://www.instagram.com/kiteretro/)) or join my [mailing list](https://goo.gl/forms/e97uUvPOfUxPWdz82). Both will get notifications of upcoming pre-orders for the Circuit Sword, or any other products (e.g. VMU).
 
@@ -10,6 +13,10 @@ A: When the pre-order is opened, the individual item cost will be shown
 ***
 ### Q: How does the pre-order work? Is it here yet?
 A: At an announced date/time a forum post will be created that contains all the information about the order including links to purchase. This purchase window will be open for 2 weeks. Once closed, all orders are counted and verified and then manufacture of the products starts. It takes around 2-3 months for the products to be fully made. When they arrive to me, I test and package each order and ship out within 1 week. The total time from order placement to product arrival is around 3-4 months.
+
+***
+### Q: What about other products that you have shown work in progress pictures of?
+A: When those products have been fully completed and are ready for manufacture, and [email/post](https://github.com/kiteretro/Circuit-Sword/wiki/FAQ#q-when-will-the-next-pre-order-open) will go up about them.
 
 ***
 ### Q: Do you ship to .. ?
