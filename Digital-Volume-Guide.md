@@ -1,7 +1,15 @@
-## Digital Volume Control
-In the image of the CSO [here](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#bottom) there is a rocker navigation switch that is unpopulated. This can act as a digital volume control, meaning the switch will trigger a volume UP or DOWN.
+# Digital Volume Control
 
-1. Get and solder the nagivation swith (e.g. https://www.aliexpress.com/item/10pcs-lever-and-Push-switch-momentary-operation-by-lever-and-center-push-using-a-single-knob/32795557524.html)
+## Volume Options
+
+1. Use the MODE + UP/DOWN button combo to adjust the volume
+2. Solder a volume rocker (navigation switch) to the board
+3. Solder 2x individual buttons to the navigation switch pads
+
+## Digital Volume Buttons (rocker or buttons)
+In the image of the CSO [here](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#bottom) there is a rocker navigation switch that is unpopulated. This can act as a digital volume control, meaning the switch will trigger a volume UP or DOWN. 
+
+1. Get and solder the nagivation swith (e.g. https://www.aliexpress.com/item/10pcs-lever-and-Push-switch-momentary-operation-by-lever-and-center-push-using-a-single-knob/32795557524.html) OR solder your own 2x buttons to the pads.
 2. Edit the arduino config.h file: https://github.com/kiteretro/Circuit-Sword/blob/master/kite-arduino/CS_FIRMWARE/config.h and change the config near the top from:
 ``` c
 //#define USE_VOLUME_DIGITAL
