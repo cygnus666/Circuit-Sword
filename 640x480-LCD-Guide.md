@@ -103,9 +103,4 @@ Connect up the adapter. When it goes inside the case it will be folded as shown 
 [[images/CSO/640LCD/10.jpg]]
 
 It is a good idea to cover the back of the LCD and ALSO the adapter in kapton tape to prevent shorting.
-
-If the trimmings have been done as per the previous steps, you should have a edge-less LCD viewing area as shown below:
-
-NOTE: In this sample fitting I cut into the BLACK stuff when trimming the LCD.. as you can see on the RIGHT half of the LCD it is only showing every other pixel! You have been warned!
-
-[[images/CSO/640LCD/11.jpg]]
+Using epoxy is the best way to fit and secure the screen.
