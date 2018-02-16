@@ -7,7 +7,6 @@ This guide will show you everything that you need to know about the 640x480 upgr
 The following images show the 640x480 and the 320x240 side by side.
 NOTE that in the pictures the 320x240 looks like it has black bands, you can't actually see them with human eyes but the camera picks them up. Also note that on the 640x480 I had accidentally put width scaling on so the character is stretched slightly..
 
-[[images/CSO/640LCD/COMP1.jpg]]
 [[images/CSO/640LCD/COMP2.jpg]]
 
 ### Benefits
