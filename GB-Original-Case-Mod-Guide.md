@@ -1,5 +1,5 @@
 # Additional Parts Required
-* Case/enclosure - eBay/Aliexpress
+* Case/enclosure - eBay/Charity shop/Goodwill/second hand store/etc
 * Conductive button pads - eBay/Aliexpress
 * Additional buttons for X and Y - eBay/Aliexpress
 * Shoulder buttons - eBay/Aliexpress
@@ -7,9 +7,8 @@
 * JST battery cable - eBay/Aliexpress (search for "JST PH 2-Pin") - BEWARE CHINA ONES ARE THE WRONG ORDER, TRIPLE CHECK!
 * USB C charging cable - eBay/Aliexpress
 * Micro SD card
-* Screen surround - retrofresh.uk/Kitsch-bent.com/deadpanrobot.co.uk
+* Screen surround - Kitsch-bent.com/deadpanrobot.co.uk
 * Tools (Soldering iron with pointed tip (Adjustable temp + quality solder (the no clean type, not the roisin stuff!)), drill, dremel, sharp knife, [b]kapton tape![/b])
-* (recommended) Mini fan
 * (optional) Screen bracket adapter - http://www.sudomod.com/forum/viewtopic.php?f=27&t=2553
 
 # GBO Case Modifications
