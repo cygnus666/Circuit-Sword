@@ -17,3 +17,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Cause:** ES/Retropie mapped them wrong
 
 **Workaround 1:** Follow [these steps](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi)#enable-ssh) in order to use the menu. In summary: press UP/DOWN to pick an item, then press RIGHT to change the selector to "OK" and then press "B" to select it! (Usually A is select, but in this menu only it is now "B"). Same applies to when enabling settings (e.g. SSH); press left/right to select option and "B" to select it.
+
+## Issue 4 - WiFi doesn't work
+**Cause:** Most likely the back board is contacting the wifi chip and shorting something
+
+**Workaround 1:** Place kapton tape over the WiFi chip, use a couple of layers
