@@ -35,7 +35,7 @@ At this point, your computer will recognise the following new devices:
 12. Click `tools -> Port -> COMX` (where X if your COM port labelled Leonardo)
 13. Click upload, and check the bottom of screen for errors or `Upload Done`
 
-# Via Pi
+# Via the Raspberry Pi
 It is also possible to update the arduino from the Pi itself.
 
 Note that this will flash a pre-made version (most recent) and will be 'stock' as it would be shipped. Meaning any customisation you have done (e.g. inverting sticks, and calibration data) will be lost.
