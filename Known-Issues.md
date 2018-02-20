@@ -36,3 +36,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 7. `sudo reboot`
 8. Power off normally. Then HOLD START AND POWER ON (to do a joystick calibration)
 9. Done! Adjust volume as normal.
+
+## Issue 6 - Cannot connect CSO to PC (unknown device)
+**Cause:** For reasons unknown, plugging in to a USB3 enabled port doesn't always work.
+
+**Solution 1:** One method is to plug a USB 2.0 HUB into your PC, and then plug the CSO into the HUB
