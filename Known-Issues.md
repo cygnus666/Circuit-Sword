@@ -26,4 +26,13 @@ This page will detail any known issues and potential ways to avoid or solve them
 ## Issue 5 - Digital volume control doesn't work at all
 **Cause:** Most likely after a joystick calibration that has enabled the use of the analog volume dial (but none is present)
 
-**Solution 1:** Follow the steps to update the software AND the Arduino here: https://github.com/kiteretro/Circuit-Sword/issues/17#issuecomment-366892950
+**Solution 1:** The software and Arduino need updating. The easiest way is to do the following:
+1. Enable WiFi
+2. SSH in
+3. `cd Circuit-Sword`
+4. `sudo ./update.sh YES`
+5. `sudo apt-get install avrdude`
+6. `sudo ./flash-arduino.sh`
+7. `sudo reboot`
+8. Power off normally. Then HOLD START AND POWER ON (to do a joystick calibration)
+9. Done! Adjust volume as normal.
