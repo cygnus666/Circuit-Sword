@@ -22,3 +22,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Cause:** Most likely the back board is contacting the wifi chip and shorting something
 
 **Workaround 1:** Place kapton tape over the WiFi chip, use a couple of layers
+
+## Issue 5 - Digital volume control doesn't work at all
+**Cause:** Most likely after a joystick calibration that has enabled the use of the analog volume dial (but none is present)
+
+**Solution 1:** Follow the steps to update the software AND the Arduino here: https://github.com/kiteretro/Circuit-Sword/issues/17#issuecomment-366892950
