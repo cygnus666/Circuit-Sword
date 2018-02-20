@@ -58,7 +58,3 @@ A: Yes! I now have a [Ko-fi](https://ko-fi.com/kiteretro) page!
 ***
 ### Q: I can't find the answer I'm looking for! How do I contact you?
 A: Email: kite@kitesitemshop.com
-
-***
-
-_The Circuit Sword is neither supported nor endorsed by Nintendo_
