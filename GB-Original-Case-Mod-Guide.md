@@ -1,7 +1,7 @@
 # Additional Parts Required
-* Case/enclosure - eBay/Charity shop/Goodwill/second hand store/etc
-* Conductive button pads - eBay/Aliexpress
-* Additional buttons for X and Y - eBay/Aliexpress
+* Case/enclosure - eBay/Charity shop/Goodwill/second hand store/etc (original only)
+* Additional conductive button pads
+* Additional buttons for X and Y
 * Shoulder buttons - eBay/Aliexpress
 * ~3000mAh battery - eBay/Aliexpress/Dextech batt
 * JST battery cable - eBay/Aliexpress (search for "JST PH 2-Pin") - BEWARE CHINA ONES ARE THE WRONG ORDER, TRIPLE CHECK!
