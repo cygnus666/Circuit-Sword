@@ -12,7 +12,7 @@
 * (optional) Screen bracket adapter - http://www.sudomod.com/forum/viewtopic.php?f=27&t=2553
 
 # GBO Case Modifications
-This page walks through the physical modifications needed to a stock Game Boy case in order to fit (once all the original Game Boy motherboard and parts have been removed).
+This page walks through the physical modifications needed to a stock Game Boy case in order to fit (once all the original Game Boy motherboard and parts have been removed). Note that the Circuit Sword is not endorsed or supported by Nintendo.
 
 Not all steps are required, this is just a guide of what you **COULD** do. You do not have to follow it. Please read and determine for yourself if you want to do it for your build.
 
