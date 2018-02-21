@@ -21,7 +21,7 @@ This page will detail any known issues and potential ways to avoid or solve them
 ## Issue 4 - WiFi doesn't work
 **Cause:** Most likely the back board is contacting the wifi chip and shorting something
 
-**Workaround 1:** Place kapton tape over the WiFi chip, use a couple of layers
+**Solution 1:** Place kapton tape over the WiFi chip, use a couple of layers
 
 ## Issue 5 - Digital volume control doesn't work at all
 **Cause:** Most likely after a joystick calibration that has enabled the use of the analog volume dial (but none is present)
