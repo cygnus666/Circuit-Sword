@@ -51,3 +51,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 3. `git fetch --all`
 4. `git reset --hard origin/master`
 5. `sudo reboot`
+
+## Issue 8 - Joystick 2 does not work!
+**Cause:** Thanks to a typo, it wasn't enabled properly..
+
+**Solution 1:** Update the Arduino code using any of the methods [here](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
