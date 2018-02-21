@@ -43,7 +43,7 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Solution 1:** One method is to plug a USB 2.0 HUB into your PC, and then plug the CSO into the HUB
 
 ## Issue 7 - Cannot update "retropie-scripts" or certain packages/updates won't install
-** Cause:** Early versions of the image edited an unused file, and this prevents it from updating itself
+**Cause:** Early versions of the image edited an unused file, and this prevents it from updating itself
 
 **Solution 1:** Follow these steps:
 1. Enable WiFi and SSH in
