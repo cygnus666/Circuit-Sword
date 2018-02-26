@@ -265,6 +265,8 @@ The included back button accessory allows use of the GBO rubber membranes and or
 
 You can use ANY form of buttons with this. One set of 3 is L1/L2/GND, and the other set is R1/R2/GND. GND is common everywhere, so you can solder the same GND cable to both buttons.
 
+A 3D printed bracket is available: https://sudomod.com/forum/viewtopic.php?f=38&t=5346
+
 ## Fit back board
 The first thing you MUST do is place kapton tape over the WiFi chip. The backboard can come in to contact with the chip and cause shorts and for it to stop working. Please put a number of layers of kapton tape over the chip to prevent this.
 
