@@ -3,7 +3,7 @@ Tester mode allows for some basic automated tests to run to show the general sys
 
 ## Enabling TESTER mode
 1. Open the SD in your computer and edit 'config-cs.txt' with "NOTEPAD++" (NOT the normal notepad)
-2. Un-comment the 'TESTER' line, and the comment the 'NORMAL' line with a # so that it looks like:
+2. Un-comment the 'TESTER' line, and then comment the 'NORMAL' line with a # so that it looks like:
 ``` bash
 #MODE=NORMAL
 MODE=TESTER

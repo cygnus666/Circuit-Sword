@@ -16,7 +16,7 @@ When the joystick is connected, it will not function until it is calibrated. The
 7. Turn off, put SD in, boot, configure gamepad
 
 ## If any axis are inverted/wrong way round
-You will need to edit the Arduino code, see here: https://github.com/kiteretro/Circuit-Sword/blob/master/kite-arduino/CS_FIRMWARE/config.h#L138-L141
+You will need to edit the Arduino code, see here: https://github.com/kiteretro/Circuit-Sword/blob/master/kite-arduino/CS_FIRMWARE/config.h#L140-L146
 
 You will need to comment/uncomment the axis in question. For example if left/right is OK but up/down is inverted, you need to change the Y1 axis from:
 ``` c

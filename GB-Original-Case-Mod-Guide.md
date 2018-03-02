@@ -1,7 +1,7 @@
 # Additional Parts Required
-* Case/enclosure - eBay/Charity shop/Goodwill/second hand store/etc
-* Conductive button pads - eBay/Aliexpress
-* Additional buttons for X and Y - eBay/Aliexpress
+* Case/enclosure - eBay/Charity shop/Goodwill/second hand store/etc (original only)
+* Additional conductive button pads
+* Additional buttons for X and Y
 * Shoulder buttons - eBay/Aliexpress
 * ~3000mAh battery - eBay/Aliexpress/Dextech batt
 * JST battery cable - eBay/Aliexpress (search for "JST PH 2-Pin") - BEWARE CHINA ONES ARE THE WRONG ORDER, TRIPLE CHECK!
@@ -12,7 +12,7 @@
 * (optional) Screen bracket adapter - http://www.sudomod.com/forum/viewtopic.php?f=27&t=2553
 
 # GBO Case Modifications
-This page walks through the physical modifications needed to a stock Game Boy case in order to fit (once all the original Game Boy motherboard and parts have been removed).
+This page walks through the physical modifications needed to a stock Game Boy case in order to fit (once all the original Game Boy motherboard and parts have been removed). Note that the Circuit Sword is not endorsed or supported by Nintendo.
 
 Not all steps are required, this is just a guide of what you **COULD** do. You do not have to follow it. Please read and determine for yourself if you want to do it for your build.
 
@@ -265,7 +265,11 @@ The included back button accessory allows use of the GBO rubber membranes and or
 
 You can use ANY form of buttons with this. One set of 3 is L1/L2/GND, and the other set is R1/R2/GND. GND is common everywhere, so you can solder the same GND cable to both buttons.
 
+A 3D printed bracket is available: https://sudomod.com/forum/viewtopic.php?f=38&t=5346
+
 ## Fit back board
+The first thing you MUST do is place kapton tape over the WiFi chip. The backboard can come in to contact with the chip and cause shorts and for it to stop working. Please put a number of layers of kapton tape over the chip to prevent this.
+
 The back board requires spacers to be soldered to set it to the right height, start by snapping out the spacers:
 
 [[images/CSO/BUILD/GBO_BACKBOARD/4.jpg]]

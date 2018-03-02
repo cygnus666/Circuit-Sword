@@ -35,6 +35,7 @@ Now that basic power looks good, you can proceed to insert the Compute Module in
 8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
 9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
 10. Insert the ribbon into the BACK BOARD FIRST (blue side always points up), and then plug in to the Circuit Sword (again, blue side up). The first time you insert the ribbon may be a little harder than subsequent times, just be careful and don't force it in.
+11. Place kapton tape OVER the green WiFi module. Use a few layers. The backboard MIGHT come in to contact with it and cause WiFi to stop working.
 
 _Note that the [heatsink and fan](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink) aren't required for the first boot testing. Nothing bad will happen without them._
 Connect like so:

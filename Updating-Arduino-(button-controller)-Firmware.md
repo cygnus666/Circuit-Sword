@@ -5,6 +5,7 @@ The Circuit Sword has an ATMEGA32u4 (Arduino Leonardo) chip that controls the bu
 
 The Arduino is updatable by USB, and the easiest way is to do it from a computer rather than from the Pi.
 
+# Via Arduino PC App
 ## Prepare Circuit Sword for Computer-USB Connection
 To connect to the PC, you need to:
 
@@ -33,3 +34,20 @@ At this point, your computer will recognise the following new devices:
 11. Click `Tools -> Board -> Arduino Leonardo`
 12. Click `tools -> Port -> COMX` (where X if your COM port labelled Leonardo)
 13. Click upload, and check the bottom of screen for errors or `Upload Done`
+
+# Via the Raspberry Pi
+It is also possible to update the arduino from the Pi itself.
+
+Note that this will flash a pre-made version (most recent) and will be 'stock' as it would be shipped. Meaning any customisation you have done (e.g. inverting sticks, and calibration data) will be lost.
+
+Note that this is considered a riskier update, despite the fact that it uploads in the same way that the Arduino app does. There are safeguards and warnings put in place to help prevent issues but be warned if all goes wrong you may need to use a USBISP to restore it back to working (you cannot 'brick' the Arduino).
+
+Note that you must reboot afterwards for all changes to take effect.
+
+1. Enable WiFi and SSH
+2. SSH in
+3. `cd Circuit-Sword`
+4. `sudo apt-get install avrdude`
+5. `sudo ./update.sh YES`
+6. `sudo ./flash-arduino.sh`
+7. `sudo reboot`
