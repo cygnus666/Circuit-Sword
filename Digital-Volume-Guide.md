@@ -43,3 +43,7 @@ In order to change the hardware, you will need to use a knife and cut the traces
 And then solder 2x wires here:
 
 [[images/CSO/CSO_DIGITAL_AUDIO_2.PNG]]
+
+You can check for no continuity using the following diagram:
+
+[[images/CSO/CSO_DIGITAL_AUDIO_3.PNG]]
