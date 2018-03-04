@@ -5,7 +5,7 @@
 A: The volume control is handled by the ATMEGA, and is adjusted using a [button combo](https://github.com/kiteretro/Circuit-Sword/wiki/Mode-Button-Shortcut-Keys). The ATMEGA stores the volume level and the Pi reads this data back and applies it to the OS volume level. There is a slight delay in updating the volume.
 
 ***
-### Q: Can I use a USB A to C cable to transfer data from my PC to the Game Boy? Can any data transfer over that port?
+### Q: Can I use a USB A to C cable to transfer data from my PC to the Circuit Sword? Can any data transfer over that port?
 A: You would use WiFi to transfer things over. The USB allows for uploading code to Arduino or for flashing the SD card (but you could just take the SD card out and do it like that). It's the same as the Pi Zero where plugging in the USB doesn't allow data transfer but you use WiFi instead.
 
 ***
@@ -17,12 +17,12 @@ A: Because all the regulators are mine (the compute module has no regulators of 
 A: The USB C is in the same place as the Micro. It is marginally wider than the Micro. When I put it in cases that I had previously made I just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also, one minor thing is that it pokes out further so to fit it you HAVE to make the cut-out.. the good news is that any USB C cable will fit, unlike previously when you had to use a 7mm long micro one!
 
 ***
-### Q: Can I use the Game Boy with custom SD card reader game cartridge?
+### Q: Can I use the Circuit Sword with custom SD card reader game cartridge?
 A: I haven't designed it for that. I'm not going to go into it too much but there are a whole host of issues with the cart slot SD so I've stayed away from it and to date haven't had a single SD issue. If you did want something in the cartridge slot, then get a USB to SD adapter and wire it to the free USB port on the board. You could also do this with a full-sized USB port and have a memory stick inside the cartridge.
 
 ***
 ### Q: Do I really have to order the small fan as well? 
-A: It's not compulsory, but you should really put a heatsink on 100% to slow down the heat build-up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits 80*C I think, so worst case scenario performance will slow down and games may become really slow.. if you can find another fan or a huge heatsink then by all means go for it. It is a Pi3 after all and if you have used a Pi3 you'll know that it can get quite toasty! I would recommend the fan.
+A: It's not compulsory, but you should really put a heatsink on 100% to slow down the heat build-up.. generally you should plan for the CPU to get quite hot especially seeing as it is enclosed in a case.. the Pi will downclock when it hits around 80*C, so worst case scenario the system may become really slow.. if you can find another fan or a huge heatsink then by all means go for it. It is a Pi3 after all and if you have used a Pi3 you'll know that it can get quite toasty! I would recommend the fan.
 
 ***
 ### Q: Will the board work with the custom 5500mAh battery from the forum?
@@ -42,7 +42,7 @@ A: The SAIO had a great big audio chip there on the front! The Circuit Sword has
 
 ***
 ### Q: I want 2x joysticks!
-A: Do you really need 2x? Personally I don't think so but it's up to you! The board supports 2x joysticks.
+A: Do you really need 2x? Personally I don't think so but it's up to you. The board supports 2x joysticks.
 
 ***
 ### Q: Can I use HoolyHoo's screen brackets with the 640x480 screen?
@@ -55,10 +55,6 @@ A: Read here: https://github.com/kiteretro/Super-AIO/wiki/640x480-LCD-Build-Note
 ***
 ### Q: Which screen bracket should I use with the 640x480 screen?
 A: Read here: https://www.sudomod.com/forum/viewtopic.php?p=47651#p47651
-
-***
-### Q: Can I order the 640x480 screen later?
-A: 640 can be ordered later, just email me when you want one. Seeing as you have to glue and cut the case for either LCD you would need a NEW SHELL to do it, these things are permanently fixed in so it's probably best to get a new case.. which is easier (IMHO) than cutting out the old one.. the included 320x240 is great anyway, way easier to install and is brighter.
 
 ***
 ### Q: I don't want the 320 screen but just the 640 one!
