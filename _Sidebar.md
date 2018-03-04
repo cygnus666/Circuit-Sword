@@ -17,7 +17,7 @@
 * [Configure input for DOSBOX](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-Input-for-DOSBOX)
 * [Configure input for PICO-8](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PICO-8)
 ## Hardware (PCBs)
-* [Circuit Sword Original V1.1E](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
+* [Circuit Sword V1.1E](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
 ### Electronics Setup
 * [Circuit Sword Original Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
