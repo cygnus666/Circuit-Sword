@@ -1,6 +1,6 @@
 ## DOSBox mapper
 
-To start a random game via [DOSBox](http://www.dosbox.com/wiki/Main_Page) emulator you want to make sure to map all core keys to the equivalent SAIO game controller buttons.
+To start a random game via [DOSBox](http://www.dosbox.com/wiki/Main_Page) emulator you want to make sure to map all core keys to the equivalent CSO game controller buttons.
 This can be done by launching the build in DOSBox mapper. For the following steps an USB Keyboard + Mouse is required.
 
 To launch the mapper tool run the following commands in a terminal (press _F4_ on your keyboard to exit Emulationstation):
