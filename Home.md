@@ -9,7 +9,7 @@ _PRE-ORDER SIGN UP NOTIFICATION: https://goo.gl/forms/e97uUvPOfUxPWdz82_
 # What is the Circuit Sword?
 The Circuit Sword is a single circuit board that contains all the required power/logic/io/peripherals to run a Raspberry Pi Compute Module 3. This makes the Circuit Sword a single board computer capable of running any software designed for the Raspberry Pi. It includes special components designed for portability and ease of use, and so features battery charging and power/shutdown management as well as button input, LCD and audio output. The Circuit Sword is a perfect fit for retro handheld console form factors and they can provide a safe and secure enclosure for the board.
 
-## The Circuit Sword (Original)
+## The Circuit Sword
 ![CSO](https://i.imgur.com/KdKMpH0.jpg)
 * Mini HDMI out with display cloning
 * Audio adjustable with MODE + UP/DOWN button combo
@@ -31,7 +31,7 @@ The Circuit Sword is pre-order only, and the pre-order window is opened regularl
 
 You can find more information about the previous pre-order here: https://www.sudomod.com/forum/viewtopic.php?f=38&t=4351
 
-# I've got my Circuit Sword, now what?
+# Build overview
 Here are the generalised steps to follow:
 
 1. [Test all electronics](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
