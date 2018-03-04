@@ -1,6 +1,6 @@
 ## Map buttons for PICO-8
 
-To start a random game via [PICO-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php?page=faq) you want to make sure to map all core keys to the equivalent SAIO game controller buttons.
+To start a random game via [PICO-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php?page=faq) you want to make sure to map all core keys to the equivalent CSO game controller buttons.
 
 This can be done by editing the _sdl_controllers.txt_ file in _/home/pi/.lexaloffle_ folder:  
 `nano /home/pi/.lexaloffle/pico-8/sdl_controllers.txt`
