@@ -1,4 +1,4 @@
-# I've got my Circuit Sword, now what?
+# Build overview
 Here are the generalised steps to follow:
 
 1. [Test all electronics](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
