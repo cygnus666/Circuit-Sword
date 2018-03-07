@@ -13,3 +13,4 @@ _Controll + X_, then _Y_, then _Enter_
 
 ## Configuring sound to run at normal speed
 NOTE this is untested so far: https://sudomod.com/forum/viewtopic.php?f=51&t=5425&p=57771#p57767
+https://www.lexaloffle.com/bbs/?tid=3935
