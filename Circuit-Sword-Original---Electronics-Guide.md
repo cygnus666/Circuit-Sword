@@ -22,7 +22,7 @@ The first thing we should do is check that the board is safe and powers up witho
 2. The 'PG' RED LED should be lit (to the right of the battery connector)
 3. Press and hold the 'power button' which is located to the RIGHT of the battery connector
 
-All the LEDs should come on at this point (see [here](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#all-leds) for more information). As soon as you release the button it should all power off. The most important LEDs are the 5x power LEDs right below the compute module connector. Those show that all voltage rails are working. If any LED is out, contact the forum/email for support.
+A lot of LEDs should come on at this point (see [here](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E#all-leds) for more information on which LED shows what). As soon as you release the button it should all power off again. The most important LEDs are the 5x power LEDs right below the compute module connector. Those show that all voltage rails are working. If any one of those 5x LEDs are out, contact the forum/email for support.
 
 4. Unplug USB cable, and plug in battery
 5. Plug in USB cable
