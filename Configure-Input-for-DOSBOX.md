@@ -5,9 +5,9 @@ This can be done by launching the build in DOSBox mapper. For the following step
 
 To launch the mapper tool run the following commands in a terminal (press _F4_ on your keyboard to exit Emulationstation):
 
-`cd /opt/retropie/emulators/dosbox/bin` (<-- might not be required)
+`cd /opt/retropie/emulators/dosbox/bin`
 
-`dosbox -startmapper`
+`./dosbox -startmapper`
 
 Alternatively you can press _CTRL+F1_ if you launched DOSBox from Emulationstation (Retropie). 
 
