@@ -13,7 +13,7 @@ Alternatively you can press _CTRL+F1_ if you launched DOSBox from Emulationstati
 
 ![SAIO](https://s19.postimg.org/rtz7g0o43/DOSBox.png)
 
-Within this screen you now can remap the keyboard commands to the SAIO controller. (Make sure to visit the official [DOSBox wiki](http://www.dosbox.com/wiki/Mapper) on how to use this mapper.) When done, exit out of the mapper.
+Within this screen you now can remap the keyboard commands to the SAIO controller. (Make sure to visit the official [DOSBox wiki](http://www.dosbox.com/wiki/Mapper) on how to use this mapper.) When done, make sure to save and exit out of the mapper.
 
 ## Configure Joystick/Gamepad
 
