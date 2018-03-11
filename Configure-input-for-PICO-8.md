@@ -1,14 +1,14 @@
 ## Setup the PICO-8 Fantasy Console
-To run the [PICO-8 Fantasy Console ](https://www.lexaloffle.com/pico-8.php?page=faq) on your handheld device (_SAIO/Circuit-Sword_) you want download a couple of packages first.
+To run the [PICO-8 Fantasy Console ](https://www.lexaloffle.com/pico-8.php?page=faq) on your handheld device (_SAIO/Circuit-Sword_) you want to download a couple of packages first.
 
 
 ### Purchase PICO-8 
 Of course, you'll need to get the PICO-8 software. [Purchase a licence here](https://www.lexaloffle.com/pico-8.php#getpico8) and they will email you a key which you need to download the (_Raspberry Pi zip_) file on their site.
 
-When downloaded unzip the packaged and copy it over to your Pi to the following path: `/home/pi/`. (The easiest way to do so is to plugin the SD card into your computer and look for the path mentioned above.)
+When downloaded unzip the package and copy it over to your Pi to the following path: `/home/pi/`. (The easiest way to do so is to plugin the SD card into your computer and look for the path mentioned above.)
 
 ### Config files
-In order to get the _SAIO/Circuit-Sword_ controls to work some config files need to be tweaked. You can download a predefined setup [here](https://www.dropbox.com/s/sens82mm607xcsk/pico8filesforSAIO.zip?dl=1) ([mirror download](http://www.mediafire.com/file/xx6o0n5swte453d/pico8filesforSAIO.zip)). When downloaded unzip the packaged and copy the whole _.lexaloffle_ folder over to your Pi to the following path: `/home/pi/`
+In order to get the _SAIO/Circuit-Sword_ controls to work some config files need to be tweaked. You can download a predefined setup [here](https://www.dropbox.com/s/sens82mm607xcsk/pico8filesforSAIO.zip?dl=1) ([mirror download](http://www.mediafire.com/file/xx6o0n5swte453d/pico8filesforSAIO.zip)). When downloaded unzip the package and copy the whole _.lexaloffle_ folder over to your Pi to the following path: `/home/pi/`
 
 ***
 Alternatively you can map all core keys to the equivalent CSO game controller buttons manually. This can be done by editing the _sdl_controllers.txt_ file in _/home/pi/.lexaloffle_ folder:  
@@ -30,7 +30,7 @@ PICO-8 requires the _libwiringPi.so_ libraries. You can get these [here](http://
 
 
 ### BBS connection
-To ensure you can connect to the BBS to get a list of games later on, you will need will to install/update _wget_:
+To ensure you can connect to the BBS to get a list of games later on, you will need to install/update _wget_:
 
 `sudo apt-get install wget`
 
@@ -38,7 +38,7 @@ To ensure you can connect to the BBS to get a list of games later on, you will n
 
 To create a new PICO-8 theme directory for Emulationstaion it's advised to follow this [step by step guide by dddaaannn](https://www.lexaloffle.com/bbs/?tid=3935). Just scroll down to the section _Launching PICO-8 from Emulation Station_ and follow the instructions.
 
-Note: As the GBZ has a larger screen then the one mentioned in dddaaannns guide it's recommended to fit the resolution for the GBZ. Therefore make sure to edit the system config file like so:
+Note: As the GBZ has a larger screen than the one mentioned in dddaaannns guide it's recommended to fit the resolution for the GBZ. Therefore make sure to edit the system config file as follows:
 
     <system>
     <name>pico8</name>
@@ -50,7 +50,7 @@ Note: As the GBZ has a larger screen then the one mentioned in dddaaannns guide 
     <theme>pico8</theme>
     </system>
 
-Note: At the moment the _-splore_ switch is set in lieu of the _-run_ switch. This is because PICO-8 doesn't allow yet to quit out of a game when using the -run switch in a shell script without having a keyboard plugged in. This might change in future updates. For the moment one has to run PICO-8 in splore mode. There you can exit the emulator via the GBZ controls.
+Note: At the moment the _-splore_ switch is set in lieu of the _-run_ switch. This is because PICO-8 doesn't allow to quit out of a game yet when using the -run switch in a shell script without having a keyboard plugged in. This might change in future updates. For the moment one has to run PICO-8 in splore mode. There you can exit the emulator via the GBZ controls.
 
 ***
 
