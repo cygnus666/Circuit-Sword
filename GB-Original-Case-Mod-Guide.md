@@ -263,6 +263,11 @@ The back board has two sets of 3 bare wires. These are the back button wires. Ea
 
 The included back button accessory allows use of the GBO rubber membranes and original buttons in place. Use glue to hold the bracket in place or follow the forums to see if someone makes a 3D printed adapter!
 
+For example there are now 3D printable brackets:
+
+Here: https://sudomod.com/forum/viewtopic.php?f=38&t=5346
+And here: https://sudomod.com/forum/viewtopic.php?f=58&t=5424
+
 You can use ANY form of buttons with this. One set of 3 is L1/L2/GND, and the other set is R1/R2/GND. GND is common everywhere, so you can solder the same GND cable to both buttons.
 
 A 3D printed bracket is available: https://sudomod.com/forum/viewtopic.php?f=38&t=5346
