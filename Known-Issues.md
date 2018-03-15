@@ -37,6 +37,8 @@ This page will detail any known issues and potential ways to avoid or solve them
 8. Power off normally. Then HOLD START AND POWER ON (to do a joystick calibration)
 9. Done! Adjust volume as normal.
 
+If it still doesn't work and volume is still stuck on 100% or bounces all over the place, remove the line `#define USE_ANALOG_VOLUME` in the [config.h](https://github.com/kiteretro/Circuit-Sword/blob/master/kite-arduino/CS_FIRMWARE/config.h#L69) file
+
 ## Issue 6 - Cannot connect CSO to PC (unknown device)
 **Cause:** For reasons unknown, plugging in to a USB3 enabled port doesn't always work.
 
