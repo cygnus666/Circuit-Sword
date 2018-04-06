@@ -16,6 +16,7 @@
 ## Tweaks
 * [Configure input for DOSBOX](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-Input-for-DOSBOX)
 * [Configure input for PICO-8](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PICO-8)
+* [Configure input for PiFBA](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PiFBA)
 * [Configure Moonlight](https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-Moonlight)
 ## Hardware (PCBs)
 * [Circuit Sword V1.1E](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
