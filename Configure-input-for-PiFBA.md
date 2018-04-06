@@ -21,6 +21,6 @@ Save with:
 _Controll + X_, then _Y_, then _Enter_
 
 ***
-Alternatively you can change the mapping in a any way you prefer.  
-Use this command to check your button numbers and tweak fba2x.cfg accordingly:  
+Alternatively you can change the mapping in a any way you prefer using this command to check and write down your button numbers and tweak fba2x.cfg accordingly:  
 `sudo jstest /dev/input/js0`
+
