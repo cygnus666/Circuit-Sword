@@ -258,6 +258,8 @@ Fit joysticks by drilling a pilot hole for alignment, followed by a larger one s
 ## Fit power switch and mode button
 The included power switch and mode button assembly plugs in with the 3pin cable that attaches to the back board. The power switch assembly should be glued in place. NOTE that the mode button is very short. Consider using some kind of extension, or replacing the button with a longer one (e.g. a "6mm tactile 2pin": [link](https://www.aliexpress.com/item/100Pcs-Tactile-Switch-Momentary-Tact-6x6x6-6-6-6mm-Middle-pin-2pins/32727102870.html))
 
+There is also a 3D printed bracket: https://sudomod.com/forum/viewtopic.php?f=58&t=5321
+
 ## Fit back buttons
 The back board has two sets of 3 bare wires. These are the back button wires. Each switch is activated by shorting the labelled pin to GND. The simplest way to have back buttons is to solder GND to one side of a button and L1 (etc) to the other side. When pressed it will make a short circuit and activate the button press.
 
