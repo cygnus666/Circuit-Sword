@@ -104,3 +104,8 @@ Connect up the adapter. When it goes inside the case it will be folded as shown 
 
 It is a good idea to cover the back of the LCD and ALSO the adapter in kapton tape to prevent shorting.
 Using epoxy is the best way to fit and secure the screen.
+
+### Font Size
+
+By default, CSO [sets a small console font size](https://github.com/kiteretro/Circuit-Sword/blob/master/settings/config-cs.txt#L18) at startup.  This is difficult to read with the 640x480 screen.
+To use the default system defined font, comment out the `STARTUPEXEC` line in `/boot/config-cs.txt`.
