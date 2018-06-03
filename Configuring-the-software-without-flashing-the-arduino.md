@@ -1,5 +1,5 @@
 # Overview
-As of the software release v1.2.0, there is a new script in the `Circuit-Sword` directory that allows the following:
+As of the software release [v1.2.0](https://github.com/kiteretro/Circuit-Sword/releases/tag/v1.2.0), there is a new script in the `Circuit-Sword` directory that allows the following:
 
 * Calibrate joystick
 * Enable/disable joystick 1 or 2
