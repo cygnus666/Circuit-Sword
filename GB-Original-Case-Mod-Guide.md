@@ -1,0 +1,1 @@
+Moved: [https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide)
