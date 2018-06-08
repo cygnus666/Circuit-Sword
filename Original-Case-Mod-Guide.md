@@ -18,18 +18,18 @@ Not all steps are required, this is just a guide of what you **COULD** do. You d
 
 ## General Overview
 Generally speaking, you need to:
-* [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
-* [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#add-x-and-y-buttons)
-* [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#usb-c-cutout)
-* Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or [otherwise](https://github.com/geebles/Super-AIO/wiki/LCD-gluing-posts))
-* [Stick in new LCD glass](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#attach-glass)
-* [Glue in speaker](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-speaker)
-* _(Optional)_ [Make holes for the status LEDs to shine through](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-led-status-holes)
-* [Glue in the power switch and mode button](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-power-switch-and-mode-button)
-* [Add some kind of back buttons](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-buttons)
-* [Add the back board](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-back-board)
-* _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#fit-blank-cartridge)
-* _(Optional)_ [Add a joystick](https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide#optional-fit-joystick)
+* [Make the display hole bigger](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#make-the-display-hole-biggercutting-out-the-lcd-space)
+* [Add extra buttons on front (X and Y)](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#add-x-and-y-buttons)
+* [Cut out USB C charging connector](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#usb-c-cutout)
+* Glue in new LCD and mounting posts ([3D printed](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-lcd-hoolyhoo-bracket) or [otherwise](https://github.com/geebles/Super-AIO/wiki/LCD-gluing-posts))
+* [Stick in new LCD glass](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#attach-glass)
+* [Glue in speaker](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-speaker)
+* _(Optional)_ [Make holes for the status LEDs to shine through](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#optional-led-status-holes)
+* [Glue in the power switch and mode button](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-power-switch-and-mode-button)
+* [Add some kind of back buttons](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-back-buttons)
+* [Add the back board](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-back-board)
+* _(Optional)_ [Add a blank cartridge](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#fit-blank-cartridge)
+* _(Optional)_ [Add a joystick](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide#optional-fit-joystick)
 
 # Front half of case
 ## Make the display hole bigger/cutting out the LCD space
