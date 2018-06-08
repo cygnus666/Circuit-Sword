@@ -8,7 +8,7 @@
 * USB C charging cable - eBay/Aliexpress
 * Micro SD card
 * Screen surround - yaya-design.com/Kitsch-bent.com/deadpanrobot.co.uk
-* Tools (Soldering iron with pointed tip (Adjustable temp + quality solder (the no clean type, not the roisin stuff!)), drill, dremel, sharp knife, [b]kapton tape![/b])
+* Tools (Soldering iron with pointed tip (Adjustable temp + quality solder (the no clean type, not the roisin stuff!)), drill, dremel, sharp knife, __kapton tape!__)
 * (optional) Screen bracket adapter - http://www.sudomod.com/forum/viewtopic.php?f=27&t=2553
 
 # Case Modifications
