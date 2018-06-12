@@ -11,3 +11,6 @@ Apply tape, and apply heatsink to CPU on the top. The other chips do not need co
 ## Fan
 Solder the fan to the FAN connector at the top of the board. This will turn the fan ON at 50-60C and turn it off when it falls below 5-10C of the set temperature. This is adjustable in the source code (see python source code).
 
+If you have a board version V1.2A or above, it will have a built in fan connector.
+
+To physically attach the fan, use a 3D printed bracket (find on forum) or a few layers of double sided foam tape.
