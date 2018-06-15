@@ -17,7 +17,7 @@ By default the Arduino waits for combo key input, and adjusts it's internal valu
 In order to ENABLE to analog volume pot, you must do:
 
 ### New method to enable
-1. Follow instructions here: https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino and select the menu option to "toggle analog volume"
+1. Follow instructions here: https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino and select the menu option to "toggle analog volume" so that it shows "1" on the status.
 
 ### Old method to enable
 1. Connect up the pot to the ANALOG VOL connector as a voltage divider (signal in middle, GND at bottom and 3.3V at top)
