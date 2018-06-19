@@ -16,4 +16,4 @@ The installation includes an update script! This will perform the necessary acti
 1. Enable WIFI and SSH
 2. SSH into Pi
 3. `cd Circuit-Sword`
-4. `sudo ./update.sh YES`
+4. `sudo ./update.sh`
