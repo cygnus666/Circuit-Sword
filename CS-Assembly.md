@@ -47,7 +47,7 @@ That VHB is tenacious stuff, so be affirmative with your placement and don't fut
 
 ## Rear Assembly
 
-###Components
+### Components
 * Rear Case (pre-modified)
 * Case Screws
 * Buttons (L1/L2)
@@ -64,7 +64,7 @@ That VHB is tenacious stuff, so be affirmative with your placement and don't fut
 * Wiring Harness for Mode/Power/L1/L2
 * Speaker
 
-###Tools
+### Tools
 * Hole punch
 * Kapton Tape
 * Soldering Iron
