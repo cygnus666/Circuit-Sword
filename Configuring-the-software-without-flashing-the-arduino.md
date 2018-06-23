@@ -8,7 +8,7 @@ As of the software release [v1.2.0](https://github.com/kiteretro/Circuit-Sword/r
 * Show status report
 
 # Update Arduino code
-If you are using the Circuit-Sword with hardware revision V1.1E, you will need to update the arduino code. If you are running 1.2A or above, no update needed.
+If you are using the Circuit-Sword with hardware revision V1.1E, you will need to [update the arduino code](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware#via-the-raspberry-pi). If you are running 1.2A or above, no update needed.
 
 # Running
 Enable SSH, and SSH in to the Circuit-Sword (raspberry pi) and run the following:
