@@ -91,12 +91,14 @@ Back case is not difficult, it's the only soldering you'll need to do.
 # Rear Case Electronics Prep
 
 ## Back Buttons
-First, solder up the Back Button PCB, you only need ground and whatever buttons you require; if using only two button use *either* header on the CS board, you don't need to use both. In other words, you can wire up L1/R1 to L1/L2 and it doesn't matter, saves some wiring since L and R shoulder pairs terminate on two different headers.  Once wired up, plug in the other end to the mode/power board.
+First, solder up the Back Button PCB, you only need ground and whatever buttons you require.  Once wired up, plug in the other end to the mode/power board.
+
+**Tip:** If using only two rear buttons, you may utilize *either* header on the CS board, you don't need to use both. In other words, you can wire up L1/R1 to L1/L2 header and it doesn't matter, saves some wiring since L and R shoulder pairs terminate on two different headers.
 
 ## Mode/Power
 Place the provided mode button tact switch in place on the 3D printed support, install the harness connector now if you haven't already, just to prevent fiddling with the part later. Place the mode/power board on the support block and secure it using two screws, place it in the case and align the button before soldering, and make sure to **trim the leads afterwards**.
 
-**Note: After trimming the mode button leads flush with the PCB, cover the pads with Kapton to prevent contact with the USB-C connector, which will cause errant activation of the mode button.**
+**Important Note:** After trimming the mode button leads flush with the PCB, cover the pads with Kapton to prevent contact with the USB-C connector, which will cause errant activation of the mode button.
 
 ## Back Board
 
@@ -150,7 +152,7 @@ Close up the case, secure with the six larger self tapping screws included with 
 
 **Tip:** The holes in the case are barely smaller than the heads on the provided screws and may threaded its way through the plastic with little force, to address this: insert an M2 washer into the well from the rear.
 
-Connect up the battery. **you did confirm polarity right???**
+Connect up the battery. **You did confirm polarity right???**
 
 **Tip: Be careful if you use tweezers you don't short the battery!**
 
@@ -158,4 +160,4 @@ Pop in a cartridge, there should be no interference.
 
 Seriously, that's it, fire it up.
 
-You may now want to add roms, if you're using retropie just create a folder structure on USB: /retropie/roms/nes/ and copy [https://www.romhacking.net/homebrew/24/](Blade Buster) into that folder.
+You may now want to add roms, if you're using retropie just create a folder structure on USB: /retropie/roms/nes/ and copy [Blade Buster](https://www.romhacking.net/homebrew/24/) or [Zooming Secretary](http://www.romhacking.net/homebrew/3/) into that folder.
