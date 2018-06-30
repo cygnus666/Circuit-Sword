@@ -4,6 +4,12 @@ The Circuit Sword has 2x joystick ports, both are labelled with the pinout where
 
 [[images/CSO/CSO_JOYSTICK_CONN1.png]]
 
+# PSP Joystick
+[[images/CSO/PSP.jpg]]
+
+# Switch Joystick
+[[images/CSO/JOYCON.jpg]]
+
 ## Calibrating the joystick (NEW METHOD)
 Follow the steps here to use the interactive menu: https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino
 
