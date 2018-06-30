@@ -4,6 +4,12 @@ The Circuit Sword has 2x joystick ports, both are labelled with the pinout where
 
 [[images/CSO/CSO_JOYSTICK_CONN1.png]]
 
+# PSP Joystick
+[[images/CSO/PSP.jpg]]
+
+# Switch Joystick
+[[images/CSO/JOYCON.jpg]]
+
 ## Calibrating the joystick (NEW METHOD)
 Follow the steps here to use the interactive menu: https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino
 
@@ -20,9 +26,3 @@ When the joystick is connected, it will not function until it is calibrated. The
 5. After 3 seconds, release the START button and slowly rotate the joystick through its entire motion. You will have 10 seconds to do this
 6. (Optional) Connect up to a PC to see the joystick output (tips [here](https://github.com/kiteretro/Circuit-Sword/wiki/Configuration-Switches))
 7. Turn off, put SD in, boot, configure gamepad
-
-# PSP Joystick
-[[images/CSO/PSP.jpg]]
-
-# Switch Joystick
-[[images/CSO/JOYCON.jpg]]
