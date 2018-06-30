@@ -9,7 +9,7 @@ The following images should generally what the product is and what it includes:
 # Board outline
 By using the follow `.dxf` file and the images below, you should be able to get a good idea of how the Circuit Sword will physical fit into whatever thing that you are creating!
 
-![CS Outline (dxf)](files/CS_ORIGINAL_V1.3a.dxf)
+[CS Outline (dxf)](files/CS_ORIGINAL_V1.3a.dxf)
 
 # Board Overview
 ## LEDs
