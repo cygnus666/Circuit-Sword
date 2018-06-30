@@ -159,5 +159,3 @@ Connect up the battery. **You did confirm polarity right???**
 Pop in a cartridge, there should be no interference.
 
 Seriously, that's it, fire it up.
-
-You may now want to add roms, if you're using retropie just create a folder structure on USB: /retropie/roms/nes/ and copy [Blade Buster](https://www.romhacking.net/homebrew/24/) or [Zooming Secretary](http://www.romhacking.net/homebrew/3/) into that folder.
