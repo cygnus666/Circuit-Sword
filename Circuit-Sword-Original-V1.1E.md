@@ -7,7 +7,7 @@ The following images should generally what the product is and what it includes:
 ![Fan](https://i.imgur.com/oiyyRez.jpg)
 
 # Board outline
-By using the follow `.dxf` file and the images below, you should be able to get a good idea of how the Circuit Sword will physical fit into whatever thing that you are creating!
+By using the following `.dxf` files and the images below, you should be able to get a good idea of how the Circuit Sword will physical fit into whatever thing that you are creating:
 
 * [CS Main Board Outline (dxf)](files/CS_ORIGINAL_V1.3a.dxf)
 * [CS Back Board Outline (dxf)](files/CS_ORIGINAL_BACK_V1.1c.dxf)
