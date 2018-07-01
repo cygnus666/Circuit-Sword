@@ -14,6 +14,8 @@ In the image of the CSO [here](https://github.com/kiteretro/Circuit-Sword/wiki/C
 
 ### Hardware version 1.1E requires a hardware mod. All other versions do not!
 
+<details>
+<summary>Click to expand</summary>
 In order to change the hardware, you will need to use a knife and cut the traces here:
 
 [[images/CSO/CSO_DIGITAL_AUDIO_1.PNG]]
@@ -21,3 +23,4 @@ In order to change the hardware, you will need to use a knife and cut the traces
 And then solder 2x wires here:
 
 [[images/CSO/CSO_DIGITAL_AUDIO_2.PNG]]
+</details>
