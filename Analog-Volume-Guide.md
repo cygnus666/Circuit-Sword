@@ -20,6 +20,8 @@ In order to ENABLE to analog volume pot, you must do:
 1. Follow instructions here: https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino and select the menu option to "toggle analog volume" so that it shows "1" on the status.
 
 ### Old method to enable
+<details>
+<summary>Click to expand</summary>
 1. Connect up the pot to the ANALOG VOL connector as a voltage divider (signal in middle, GND at bottom and 3.3V at top)
 2. Turn everything off and remove SD card to prevent Pi booting
 3. Turn volume to the MIDDLE (or the top, basically NOT 'lowest' volume)
@@ -29,3 +31,4 @@ In order to ENABLE to analog volume pot, you must do:
 7. You have analog volume control!
 
 To disable, repeat the steps above again but disconnect the connector and it will detect it not there and revert to digital volume
+</details>
