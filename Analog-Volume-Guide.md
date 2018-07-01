@@ -21,8 +21,9 @@ In order to ENABLE to analog volume pot, you must do:
 
 ### Old method to enable
 <details>
-<summary>Click to expand</summary>
-1. Connect up the pot to the ANALOG VOL connector as a voltage divider (signal in middle, GND at bottom and 3.3V at top)
+  <summary>Click to expand</summary>
+
+1. Connect up the pot to the ANALOG VOL connector as a voltage divider (signal in middle, GND at bottom and 3.3V at top) 
 2. Turn everything off and remove SD card to prevent Pi booting
 3. Turn volume to the MIDDLE (or the top, basically NOT 'lowest' volume)
 4. Hold START and turn the power switch ON
