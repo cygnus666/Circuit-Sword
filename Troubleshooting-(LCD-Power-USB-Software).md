@@ -2,6 +2,23 @@
 ## Check for physical shorts on wifi module
 When the back half of the case it put on, the USB connector can sometimes touch the WiFi module. This causes shorts and stops it working. The solution is to put a few layers of kapton tape over the wifi module, and to trim the legs of the USB connector on the back board.
 
+## Connect using the wpa_supplicant.conf file
+Due to keyboard and locale settings, it may be easier to create a text file with the wifi details in and load those in the wifi connection menu.
+
+Insert SD into a PC, and create a file called `wpa_supplicant.conf` (warning, use Notepad++ or similar, normal notepad will not do, and may end up with a `.txt` extension, it must end in `.conf`) with the following contents:
+
+```
+country=US
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+
+network={
+    ssid="My Cool Network"
+    psk="my9a$$w0rd"
+    key_mgmt=WPA-PSK
+}
+```
+
 ## Disabling WiFi completely
 We can stop wifi loading COMPLETELY by editing `config.txt` and putting a `#` in front of the line, so that it looks like the following:
 
