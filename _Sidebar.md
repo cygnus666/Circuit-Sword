@@ -8,7 +8,7 @@
 * [Configuration switches usage](https://github.com/kiteretro/Circuit-Sword/wiki/Configuration-Switches)
 ## Troubleshooting
 * [Running in 'TESTER' mode](https://github.com/kiteretro/Circuit-Sword/wiki/Running-in-TESTER-Mode)
-* [Troubleshooting (WiFi/LCD/Power/USB/Software)](https://github.com/kiteretro/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
+* [Troubleshooting (WiFi/LCD/Power/USB)](https://github.com/kiteretro/Circuit-Sword/wiki/Troubleshooting-(LCD-Power-USB-Software))
 ## Software Setup
 * [Flashing software onto the Compute Module](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module)
 * [Configuring the software without flashing the Arduino](https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-the-software-without-flashing-the-arduino)
