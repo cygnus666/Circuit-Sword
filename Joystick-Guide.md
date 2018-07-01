@@ -22,12 +22,9 @@ Follow the steps here to use the interactive menu: https://github.com/kiteretro/
 <details>
 <summary>Click to expand</summary>
 
-  1. Power off everything
-
+1. Power off everything
 2. (Optional) Remove the SD (as we do not want the Circuit Sword to boot)
-
 3. Hold the START button
-
 4. Turn the power switch ON
 5. After 3 seconds, release the START button and slowly rotate the joystick through its entire motion. You will have 10 seconds to do this
 6. (Optional) Connect up to a PC to see the joystick output (tips [here](https://github.com/kiteretro/Circuit-Sword/wiki/Configuration-Switches))
