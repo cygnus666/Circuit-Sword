@@ -18,7 +18,7 @@ NOTE that in the pictures the 320x240 looks like it has black bands, you can't a
 * Harder to add supports to
 * Lower overall brightness
 * Lower vibrancy
-* Games don't actually run higher than 320x240, only menus in retropie would be clearer
+* Software doesn't actually run higher than 320x240, only menus would be clearer (although scaling would make any in-between resolutions look nicer)
 
 ## Size
 Here are the physical dimensions of the LCD:
