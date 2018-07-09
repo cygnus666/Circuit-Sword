@@ -1,3 +1,8 @@
+# Updating Raspberry Pi/Software
+WARNING: If you upgrade the kernel, you will lose WiFi connectivity. This is because the WiFi driver does not come as standard with the kernel and must be built separately and installed. Currently there are no manual steps to do this, so avoid upgrading the kernel (e.g. "upgrade/update" from the ES menu will cause this).
+
+You can safely upgrade everything else, but may need to do so manually to avoid the kernel being upgraded.
+
 # Enable SSH
 Enabling SSH allows you to log in to the Pi remotely (e.g. using PuTTY)
 
