@@ -1,5 +1,5 @@
 # Updating Raspberry Pi/Software
-WARNING: If you upgrade the kernel, you will lose WiFi connectivity. This is because the WiFi driver does not come as standard with the kernel and must be built separately and installed. Currently there are no manual steps to do this, so avoid upgrading the kernel (e.g. "upgrade/update" from the ES menu will cause this).
+WARNING: If you upgrade the kernel, you will lose WiFi connectivity. This is because the WiFi driver does not come as standard with the kernel and must be built separately and installed. Currently there are no manual steps to do this, so avoid upgrading the kernel (e.g. "upgrade/update" from the ES menu will cause this). If you do this, you will need to re-image the pre-made version. You can use USB WiFi adapters in place of the onboard one. You may need to use a powered hub depending on the power requirements of the adaptor.
 
 You can safely upgrade everything else, but may need to do so manually to avoid the kernel being upgraded.
 
