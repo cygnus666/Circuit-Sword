@@ -277,6 +277,8 @@ A 3D printed bracket is available: https://sudomod.com/forum/viewtopic.php?f=38&
 ## Fit back board
 The first thing you MUST do is place kapton tape over the WiFi chip. The backboard can come in to contact with the chip and cause shorts and for it to stop working. Please put a number of layers of kapton tape over the chip to prevent this.
 
+The second thing you MUST do is place kapton tape over the USB C port (the large exposed metal part) because if you solder the mode button with the legs of the button too long, it can come in to contact with this metal and cause the button to be permanently on. When soldering the mode button, shorten the legs ever so slightly to help prevent this!
+
 The back board requires spacers to be soldered to set it to the right height, start by snapping out the spacers:
 
 [[images/CSO/BUILD/GBO_BACKBOARD/4.jpg]]
