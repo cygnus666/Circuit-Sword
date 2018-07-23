@@ -63,3 +63,5 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 **Cause:** Solder balls appear to get stuck at the back of the LCD connector, at the top of the plastic. During manufacture these can melt causing two pins to join together that shouldn't. These are typically hard to see with eyes alone, a high detail photo is needed on the BACK of the LCD connector on the board, at an approx 45 degree angle with plenty of light. Customer found issue [here](https://sudomod.com/forum/viewtopic.php?f=51&t=6122#p62848)
 
 **Solution 1:** Using a very sharp knife, carefully cut through the bridge. Alternatively send me an email and we'll sort out a repair.
+
+**Solution 2:** Using plenty of flux and a dry iron, you can remove the bridges. See Lee's excellent video here: https://www.youtube.com/watch?v=HbeHoqdrTOg
