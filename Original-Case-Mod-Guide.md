@@ -330,4 +330,4 @@ From the outside it will look like this:
 [[images/CSO/BUILD/GBO_CARTCUT/6.jpg]]
 
 # Assembly
-TODO
+TODO, however Lee has made an excellent video on how he has assembled his: https://www.youtube.com/watch?v=_STKUuXv-eM
