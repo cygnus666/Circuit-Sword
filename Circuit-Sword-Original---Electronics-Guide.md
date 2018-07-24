@@ -58,7 +58,7 @@ _The LCD connector is PINS SIDE UP_
 
 13. Slide the switch ON
 14. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
-15. Once booted, use a rubber membrane to configure the input as instructed on screen
+15. Once booted, use a rubber membrane to configure the input as instructed on screen. From this point you could proceed to finishing your build so that you can map all the required buttons. You can always 'reconfigure gamepad' from the START menu if you add/remove buttons later on.
 16. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
 
 ## 3. Next steps
