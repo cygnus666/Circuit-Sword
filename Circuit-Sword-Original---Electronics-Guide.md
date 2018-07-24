@@ -3,7 +3,7 @@ This small guide will walk you through the basic steps of how the electronics wo
 
 # BATTERY POLARITY WARNING
 ```diff
-- PLUGGING THE BATTERY IN THE WRONG WAY ROUND WILL CAUSE THE CHARGER TO BURN OUT INSTANTLY
+- PLUGGING THE BATTERY IN THE WRONG WAY ROUND WILL CAUSE THE CHARGER TO BURN OUT
 ```
 The battery connector polarity is very important as cheap cables often have the incorrect pinout. BEFORE plugging in a battery, check that the RED cable meets to the "+" of the connector, and the BLACK cable meets to the "-" of the connector. Plugging a cable in with the incorrect polarity will destroy the charging part of the Circuit Sword and this is not covered under the 30 day warranty.
 
