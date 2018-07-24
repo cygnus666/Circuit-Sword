@@ -37,11 +37,12 @@ A lot of LEDs should come on at this point (see [here](https://github.com/kitere
 ## 2. First boot
 Now that basic power looks good, you can proceed to insert the Compute Module into the holder, insert a flashed SD, and connect up the back board:
 
-7. Insert Compute Module into holder, and connect up the FPC and back board as shown below.
-8. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
-9. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs)
-10. Insert the ribbon into the BACK BOARD FIRST (blue side always points up), and then plug in to the Circuit Sword (again, blue side up). The first time you insert the ribbon may be a little harder than subsequent times, just be careful and don't force it in.
-11. Place kapton tape OVER the green WiFi module. Use a few layers. The backboard MIGHT come in to contact with it and cause WiFi to stop working.
+7. Place kapton tape OVER the green WiFi module. Use a few layers. The backboard MIGHT come in to contact with it and cause WiFi to stop working.
+8. Insert Compute Module into holder, and connect up the FPC and back board as shown below.
+9. Insert a pre-imaged SD card into the SD slot (click [here](https://github.com/kiteretro/Circuit-Sword/wiki/Flashing-Software-onto-the-Compute-Module) for how-to)
+10. Insert the LCD into the LCD connector (NOTE: Be very careful with the LCD connector, you do not want to pull hard on it otherwise it will break the delicate plastic tabs). The connector has a black plastic 'drawer' which slides out about 1-2mm, using two hands and using your finger nails you can pull them both down at the same time. Alternatively using a small hard plastic pointer you can gently pry them out. You can then insert the ribbon as far as it'll go, and then in a pinching move pull the drawer back to lock the ribbon in.
+11. Insert the ribbon into the BACK BOARD FIRST (blue side always points up), and then plug in to the Circuit Sword (again, blue side up). The first time you insert the ribbon may be a little harder than subsequent times, just be careful and don't force it in. The connector has a small black tab, this lifts up as pictured below.
+12. Plug in battery and/or USB cable
 
 _Note that the [heatsink and fan](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink) aren't required for the first boot testing. Nothing bad will happen without them._
 Connect like so:
@@ -55,10 +56,10 @@ _The back board connector goes BLUE SIDE UP on both ends_
 _The LCD connector is PINS SIDE UP_
 [[images/CSO/CSO_V1.1E_LCDCONN1.jpg]]
 
-11. Slide the switch ON
-12. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
-13. Once booted, use a rubber membrane to configure the input as instructed on screen
-14. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
+13. Slide the switch ON
+14. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
+15. Once booted, use a rubber membrane to configure the input as instructed on screen
+16. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
 
 ## 3. Next steps
 Now that the electronics are tested to be working, the only extra things you might want to do are the back buttons and joystick (optional) as these require soldering to complete. Most likely you'll want to assemble it into your case!
