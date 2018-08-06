@@ -41,9 +41,13 @@ If it crashes or freezes on boot, try the above 'disable wifi' method followed b
 # LCD Troubleshooting
 This section contains everything to do with the LCD.
 
+## Banding on display
+Inspect LCD ribbon cable connector for bridges, they are very difficult to spot:
+[LCD Banding fix](https://youtu.be/HbeHoqdrTOg)
+
 # Button Troubleshooting
 ## Mode button is always pressed
-Put kapton tape on the USB C connector and the mode button pins, as they may come in to contact. Alternatively use snips/files to make the mode button legs not so long.
+Put kapton tape on the USB C connector and the mode button pins, as they may come in to contact. Alternatively use snips/file to make the mode button legs flush with PCB.
 
 # Power Troubleshooting
 This section contains everything to do with main power (e.g. won't turn ON).
