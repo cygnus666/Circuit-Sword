@@ -73,7 +73,7 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 **Solution 2:** Using plenty of flux and a dry iron, you can remove the bridges. See Lee's excellent video here: https://www.youtube.com/watch?v=HbeHoqdrTOg
 
 ## Issue 10 - PiFBA sound runs too fast
-**Cause:** Unknown, likely tied to some kind of screen timings
+**Cause:** Unknown, likely tied to some kind of screen timings. Found by makemao [here](https://github.com/kiteretro/Super-AIO/issues/6#issuecomment-416043518).
 
 **Solution:** Follow these steps (only applies to 320x240 LCD):
 Edit the config.txt (SD in PC, or /boot/config.txt) and change the timing value:
