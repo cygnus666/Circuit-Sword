@@ -71,3 +71,11 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 **Solution 1:** Using a very sharp knife, carefully cut through the bridge. Alternatively send me an email and we'll sort out a repair.
 
 **Solution 2:** Using plenty of flux and a dry iron, you can remove the bridges. See Lee's excellent video here: https://www.youtube.com/watch?v=HbeHoqdrTOg
+
+## Issue 10 - PiFBA sound runs too fast
+**Cause:** Unknown, likely tied to some kind of screen timings
+
+**Solution:** Follow these steps:
+Edit the config.txt (SD in PC, or /boot/config.txt) and change the timing value:
+
+hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
