@@ -75,7 +75,7 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 ## Issue 10 - PiFBA sound runs too fast
 **Cause:** Unknown, likely tied to some kind of screen timings
 
-**Solution:** Follow these steps:
+**Solution:** Follow these steps (only applies to 320x240 LCD):
 Edit the config.txt (SD in PC, or /boot/config.txt) and change the timing value:
 
 hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
