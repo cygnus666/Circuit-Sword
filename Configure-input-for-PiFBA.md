@@ -1,3 +1,6 @@
+### Sound running too fast
+See the known issue here: https://github.com/kiteretro/Circuit-Sword/wiki/Known-Issues#issue-10---pifba-sound-runs-too-fast
+
 ### Config files
 In order to get the _SAIO/Circuit-Sword_ controls to work with [PiFBA](https://github.com/RetroPie/pifba) a config file needs to be tweaked using the following command:  
 `sudo nano /opt/retropie/configs/fba/fba2x.cfg`
