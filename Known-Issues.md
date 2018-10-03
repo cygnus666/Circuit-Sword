@@ -79,3 +79,8 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 Edit the config.txt (SD in PC, or /boot/config.txt) and change the timing value:
 
 hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
+
+## Issue 11 - cs-hud fails to run on Retropie 4.3 due to missing libpng16
+**Cause:** The 4.3 release uses the older kernel, 4.4 uses the raspbian 'stretch' image and includes this library.
+
+**Solution:** An issue has already been raised and the user has solved it, information can be found here: https://github.com/kiteretro/Circuit-Sword/issues/65
