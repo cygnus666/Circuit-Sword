@@ -1,3 +1,4 @@
+_Note that this only applies to versions running the `cs-osd` service. If you are running the `cs-hud` service (where there is a menu pop up when you hold the MODE button) then these currently do not apply and will come in a future update_
 ### Move around icons
 
 In a default setup the OSD icons sit right at the extreme edge of the screen, which may cause them to sit outside the border of your display lens, easy to fix.
