@@ -3,7 +3,7 @@
 * Additional conductive button pads
 * Additional buttons for X and Y
 * Shoulder buttons - eBay/Aliexpress
-* ~3000mAh battery - eBay/Aliexpress/Dextech batt
+* ~4000mAh battery - eBay/Aliexpress/Dextech batt/megaBatt (search online for "125054" which is the max size)
 * JST battery cable - eBay/Aliexpress (search for "JST PH 2-Pin") - BEWARE CHINA ONES ARE THE WRONG ORDER, TRIPLE CHECK!
 * USB C charging cable - eBay/Aliexpress
 * Micro SD card
