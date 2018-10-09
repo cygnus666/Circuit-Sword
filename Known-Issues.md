@@ -88,6 +88,6 @@ hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
 ## Issue 12 - No boot / black screen only
 **Symptoms:** All power LEDs are good, the SD has been written successfully with an image from the 'releases' tab (when inserted into a PC it shows as a 56MB drive, regardless of real SD size (this is expected)), however when powered on there is nothing but black shown on the LCD. The 'PGOOD' and 'USBHUB' LEDs are not lit either (showing that the CM3 hasn't actually booted at all). Existing issue [here](https://github.com/kiteretro/Circuit-Sword/issues/69).
 
-**Cause:** Unknown, awaiting customer returned boards to fully debug
+**Cause:** The SD connector on the board is moved slightly when manufacturing and in some rare cases when reflowed the pins don't make full contact and so it appears to the Pi that the SD card isn't connected.
 
-**Solution:** Send kite an email (kite@kitesitemshop.com) describing this problem and I will replace your board
+**Solution:** Send kite an email (kite@kitesitemshop.com) describing this problem and I will replace your board. You will need to return the faulty board to the address provided in the email reply.
