@@ -15,7 +15,7 @@
 * [Updating the software](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi))
 * [Updating Arduino code](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-Arduino-(button-controller)-Firmware)
 ## Tweaks
-* [Confiure OSD position](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-OSD)
+* [Confiure HUD](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-HUD)
 * [Configure input for DOSBOX](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-Input-for-DOSBOX)
 * [Configure input for PICO-8](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PICO-8)
 * [Configure input for PiFBA](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PiFBA)
