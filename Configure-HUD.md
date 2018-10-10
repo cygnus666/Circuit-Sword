@@ -15,7 +15,7 @@ Then add the ` -s` so that it looks like:
 ExecStart=/home/pi/Circuit-Sword/cs-hud/cs-hud -s
 ```
 
-_Hint: Press `i` to enter text mode, when done press `ESC` key, then `:` and then `wq` and then `ENTER` key. Or use `nano` instead of `vim.tiny`_
+_Hint: Press `i` to enter text mode, when done editing text press `ESC` key, then `:` and then `wq` and then `ENTER` key. Or use `nano` instead of `vim.tiny` if you are more familiar with that_
 
 4. Run the command `sudo systemctl daemon-reload`
 5. Run the command `sudo systemctl restart cs-hud.service`
