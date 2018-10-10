@@ -1,3 +1,29 @@
+# Configuration for CS-HUD (v1.3.0 and above)
+
+## Hiding the battery icon
+It is possible to hide the battery icon from view and have it only appear when the battery is low. The MODE button menu and everything else still functions as expected.
+
+1. Enable wifi and ssh
+2. SSH in to the Circuit Sword
+3. Edit the service file and add ` -s` to the service by doing the following:
+
+`sudo vim.tiny /lib/systemd/system/cs-hud.service`
+
+Then add the ` -s` so that it looks like:
+
+```
+ExecStart=/home/pi/Circuit-Sword/cs-hud/cs-hud -s
+```
+
+_Hint: Press `i` to enter text mode, when done press `ESC` key, then `:` and then `wq` and then `ENTER` key. Or use `nano` instead of `vim.tiny`_
+
+4. Run the command `sudo systemctl daemon-reload`
+5. Run the command `sudo systemctl restart cs-hud.service`
+
+To undo, follow the same steps but _remove_ the `-s` instead
+
+# Configuration for CS-OSD (v1.2.1 and below)
+
 _Note that this only applies to versions running the `cs-osd` service. If you are running the `cs-hud` service (where there is a menu pop up when you hold the MODE button) then these currently do not apply and will come in a future update_
 ### Move around icons
 
