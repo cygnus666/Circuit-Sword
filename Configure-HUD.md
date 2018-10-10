@@ -20,7 +20,7 @@ _Hint: Press `i` to enter text mode, when done editing text press `ESC` key, the
 4. Run the command `sudo systemctl daemon-reload`
 5. Run the command `sudo systemctl restart cs-hud.service`
 
-To undo, follow the same steps but _remove_ the `-s` instead
+To undo, follow the same steps but _remove_ the `-s` instead. Also note that if you perform an `./update.sh` it will undo this change. In future this will be a toggle feature with an easy way to set it and when available this page will be updated.
 
 # Configuration for CS-OSD (v1.2.1 and below)
 
