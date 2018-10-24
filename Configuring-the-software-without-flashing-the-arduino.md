@@ -15,7 +15,7 @@ Enable SSH, and SSH in to the Circuit-Sword (raspberry pi) and run the following
 
 1. Stop the battery monitor running:
 ``` shell
-sudo service cs-osd stop
+sudo service cs-hud stop
 ```
 
 2. Run the configuration:
