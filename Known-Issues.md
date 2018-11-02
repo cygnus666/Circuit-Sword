@@ -90,4 +90,12 @@ hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
 
 **Cause:** The SD connector on the board is moved slightly when manufacturing and in some rare cases when reflowed the pins don't make full contact and so it appears to the Pi that the SD card isn't connected.
 
+It is possible to check if this is the case by probing the following pins with a multimeter in resistance mode (where it will beep when a contact is made, the expectation of a working board is that each pair of pins will beep when probed from each end):
+
+<details>
+<summary>Image of SD pinouts - Click to expand</summary>
+[[https://i.imgur.com/ijs9VrV.jpg]]
+</details>
+&nbsp;
+
 **Solution:** Send kite an email (kite@kitesitemshop.com) describing this problem and I will replace your board. You will need to return the faulty board to the address provided in the email reply. The repair is to re-flow the solder (either by hot air or a fine tipped iron) for the pins on the INSIDE of the SD slot (that can be seen through the little cutout near the edge of the board. Note that it's the soldered pins, not the gold ones that make contact with the actual SD card.
