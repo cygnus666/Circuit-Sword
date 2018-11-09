@@ -27,7 +27,7 @@ We can stop wifi loading COMPLETELY by editing `config.txt` and putting a `#` in
 ```
 
 ## Collecting the log file
-For most debug related to crashes, the /var/log/messages file is useful. This can be collected by doing:
+For most debug related to crashes or wifi issues, the following log files are useful:
 
 1. Plug in a USB keyboard
 2. Press `F4` (to quit emulationstation)
