@@ -32,9 +32,9 @@ For most debug related to crashes or wifi issues, the following log files are us
 1. Plug in a USB keyboard
 2. Press `F4` (to quit emulationstation)
 3. Run the command `sudo cp /var/log/messages /boot/messages.txt`
-4. Run the command `sudo cp /var/log/systemctl /boot/systemctl.txt`
+4. Run the command `sudo cp /var/log/syslog /boot/syslog.txt`
 5. Power off
-6. Put SD in PC, and upload the `messages.txt` and `systemctl.txt` files that you see there
+6. Put SD in PC, and upload the `messages.txt` and `syslog.txt` files that you see there
 
 ## Crashing or freezeing on boot? Most likely WiFi causing this
 If it crashes or freezes on boot, try the above 'disable wifi' method followed by 'collecting the log file' and create an issue/email with the information
