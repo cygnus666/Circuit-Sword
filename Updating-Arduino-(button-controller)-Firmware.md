@@ -17,10 +17,9 @@ Note that you must reboot afterwards for all changes to take effect.
 1. Enable WiFi and SSH
 2. SSH in
 3. `cd Circuit-Sword`
-4. `sudo apt-get install avrdude`
-5. `sudo ./update.sh YES`
-6. `sudo ./flash-arduino.sh`
-7. `sudo reboot`
+4. `sudo ./update.sh YES`
+5. `sudo ./flash-arduino.sh`
+6. `sudo reboot`
 
 # Via Arduino PC App
 ## Prepare Circuit Sword for Computer-USB Connection
