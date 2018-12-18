@@ -1,5 +1,5 @@
 # Overview
-This small guide will walk you through the basic steps of how the electronics work for the Circuit Sword Original. The actual plastic hardware case used is pretty much open ended and entirely up to you, but there are guides on the right hand menu that will help in those areas. This section is specifically about the board and electronics.
+This small guide will walk you through the basic steps of how the electronics work for the Circuit Sword. The actual hardware enclosure/housing used is pretty much open ended and entirely up to you, but there are guides available externally that can help. This section is specifically about the board and electronics.
 
 # BATTERY POLARITY WARNING
 ```diff
