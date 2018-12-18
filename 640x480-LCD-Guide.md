@@ -52,9 +52,7 @@ The 640x480 LCD needs more power to run at full brightness. On the Circuit Sword
 ### Preparing case for LCD
 Do the screen surround cut out as per normal steps in guide. It is a good idea to use a black marker to run on the inside edge of the cutout so when viewed at an angle you can't see the grey plastic.
 
-[[images/CSO/640LCD/1.jpg]]
-
-The 640x480 LCD is very slighly wider than the shell.. it is required that the inside of the case needs to be trimmed to allow it to fit, and also for proper alignment.
+The 640x480 LCD is very slightly wider than the shell.. it is required that the inside of the case needs to be trimmed to allow it to fit, and also for proper alignment.
 
 The only edge that needs indenting (for a better word) is the side with the CONTRAST slot. This is the side where the thick piece of metal on the LCD is closest to.
 
