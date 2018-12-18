@@ -59,9 +59,7 @@ _The LCD connector is PINS SIDE UP_
 13. Slide the switch ON
 14. The Compute Module should boot, it will first resize the partition and reboot. It will take 2-3mins on first boot to configure everything. Subsequent boots WILL be quicker so just be patient for now :)
 15. Once booted, use a rubber membrane to configure the input as instructed on screen. From this point you could proceed to finishing your build so that you can map all the required buttons. You can always 'reconfigure gamepad' from the START menu if you add/remove buttons later on.
-16. Done! See the retropie website for further steps https://retropie.org.uk/docs/Controller-Configuration/
+16. Done!
 
 ## 3. Next steps
-Now that the electronics are tested to be working, the only extra things you might want to do are the back buttons and joystick (optional) as these require soldering to complete. Most likely you'll want to assemble it into your case!
-
-Case modding: https://github.com/kiteretro/Circuit-Sword/wiki/GB-Original-Case-Mod-Guide
+Now that the electronics are tested to be working, the only extra things you might want to do are the back buttons and joystick (optional) as these require soldering to complete. From here, you can assemble the circuit boards into your housing/enclosure of choice.
