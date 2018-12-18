@@ -29,7 +29,7 @@ _Note that this only applies to versions running the `cs-osd` service. If you ar
 
 In a default setup the OSD icons sit right at the extreme edge of the screen, which may cause them to sit outside the border of your display lens, easy to fix.
 
-Mount your SD card via USB or connect via SSH and edit the following file in the retropie partition:
+Mount your SD card via USB or connect via SSH and edit the following file in the partition:
 
 `/home/pi/Circuit-Sword/cs-osd/cs-osd/config.ini`
 
