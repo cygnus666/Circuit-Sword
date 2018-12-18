@@ -28,8 +28,8 @@
 * [Fan and heatsink](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink)
 ### Configuring the joystick
 * [Joystick Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Joystick-Guide)
-### HD 640x480 LCD
-* [LCD Guide](https://github.com/kiteretro/Circuit-Sword/wiki/640x480-LCD-Guide)
-### Analogue Volume
+### Configuring 640x480 LCD
+* [HD 640x480 LCD Guide](https://github.com/kiteretro/Circuit-Sword/wiki/640x480-LCD-Guide)
+### Configuring Volume
 * [Analog Volume Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Analog-Volume-Guide)
 * [Digital Volume Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Digital-Volume-Guide)
