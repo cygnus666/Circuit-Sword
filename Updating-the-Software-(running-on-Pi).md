@@ -8,7 +8,7 @@ If any update menu questions ask "update kernel packages?", then always select "
 # Enable SSH
 Enabling SSH allows you to log in to the Pi remotely (e.g. using PuTTY)
 
-1. From retropie menu, go to 'settings' page
+1. From menu, go to 'settings' page
 2. Open 'raspi-config' option
 3. Press DOWN to 'interface options'
 4. Press RIGHT (to select the 'OK' button) and then press 'B' to select
