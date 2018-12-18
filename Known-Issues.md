@@ -14,7 +14,7 @@ This page will detail any known issues and potential ways to avoid or solve them
 **Solution 1:** Update the software with [these simple steps](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi)).
 
 ## Issue 3 - When in the 'raspi-setup' menu, the buttons are mapped wrong
-**Cause:** ES/Retropie mapped them wrong
+**Cause:** Mapped by default the wrong way round
 
 **Workaround 1:** Follow [these steps](https://github.com/kiteretro/Circuit-Sword/wiki/Updating-the-Software-(running-on-Pi)#enable-ssh) in order to use the menu. In summary: press UP/DOWN to pick an item, then press RIGHT to change the selector to "OK" and then press "B" to select it! (Usually A is select, but in this menu only it is now "B"). Same applies to when enabling settings (e.g. SSH); press left/right to select option and "B" to select it.
 
@@ -44,12 +44,12 @@ If it still doesn't work and volume is still stuck on 100% or bounces all over t
 
 **Solution 1:** One method is to plug a USB 2.0 HUB into your PC, and then plug the CSO into the HUB
 
-## Issue 7 - Cannot update "retropie-scripts" or certain packages/updates won't install
+## Issue 7 - Cannot update or certain packages/updates won't install
 **Cause:** Early versions of the image edited an unused file, and this prevents it from updating itself
 
 **Solution 1:** Follow these steps:
 1. Enable WiFi and SSH in
-2. `cd RetroPie-Setup`
+2. `cd R*-Setup`
 3. `git fetch --all`
 4. `git reset --hard origin/master`
 5. `sudo reboot`
@@ -80,7 +80,7 @@ Edit the config.txt (SD in PC, or /boot/config.txt) and change the timing value:
 
 hdmi_timings=320 1 20 30 38 240 1 4 3 10 0 0 0 60 0 **6400000** 1
 
-## Issue 11 - cs-hud fails to run on Retropie 4.3 due to missing libpng16
+## Issue 11 - cs-hud fails to run on due to missing libpng16
 **Cause:** The 4.3 release uses the older kernel, 4.4 uses the raspbian 'stretch' image and includes this library.
 
 **Solution:** An issue has already been raised and the user has solved it, information can be found here: https://github.com/kiteretro/Circuit-Sword/issues/65
