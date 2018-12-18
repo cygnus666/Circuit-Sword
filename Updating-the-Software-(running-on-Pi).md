@@ -3,6 +3,8 @@ WARNING: If you upgrade the kernel, you will lose WiFi connectivity. This is bec
 
 You can safely upgrade everything else, but may need to do so manually to avoid the kernel being upgraded.
 
+If any update menu questions ask "update kernel packages?", then always select "NO".
+
 # Enable SSH
 Enabling SSH allows you to log in to the Pi remotely (e.g. using PuTTY)
 
