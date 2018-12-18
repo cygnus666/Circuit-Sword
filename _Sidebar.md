@@ -23,8 +23,8 @@
 ## Hardware (PCBs)
 * [Circuit Sword V1.x](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
-### Electronics Setup
-* [Circuit Sword Original Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
+### Configuring Electronics
+* [Circuit Sword Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 * [Fan and heatsink](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink)
 ### Configuring Joystick
 * [Joystick Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Joystick-Guide)
