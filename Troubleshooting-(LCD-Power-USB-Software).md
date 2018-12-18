@@ -30,7 +30,7 @@ We can stop wifi loading COMPLETELY by editing `config.txt` and putting a `#` in
 For most debug related to crashes or wifi issues, the following log files are useful:
 
 1. Plug in a USB keyboard
-2. Press `F4` (to quit emulationstation)
+2. Press `F4` (to quit)
 3. Run the command `sudo cp /var/log/messages /boot/messages.txt`
 4. Run the command `sudo cp /var/log/syslog /boot/syslog.txt`
 5. Power off
