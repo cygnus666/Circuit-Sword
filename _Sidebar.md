@@ -21,17 +21,15 @@
 * [Configure input for PiFBA](https://github.com/kiteretro/Circuit-Sword/wiki/Configure-input-for-PiFBA)
 * [Configure Moonlight](https://github.com/kiteretro/Circuit-Sword/wiki/Configuring-Moonlight)
 ## Hardware (PCBs)
-* [Circuit Sword V1.X](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
+* [Circuit Sword V1.x](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original-V1.1E)
 ## Build Guides
 ### Electronics Setup
 * [Circuit Sword Original Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 * [Fan and heatsink](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink)
-### Case Modding
-* [Original Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Original-Case-Mod-Guide)
-### Fitting the joystick
+### Configuring the joystick
 * [Joystick Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Joystick-Guide)
-### 640x480 LCD
-* [640 LCD Guide](https://github.com/kiteretro/Circuit-Sword/wiki/640x480-LCD-Guide)
+### HD 640x480 LCD
+* [LCD Guide](https://github.com/kiteretro/Circuit-Sword/wiki/640x480-LCD-Guide)
 ### Analogue Volume
 * [Analog Volume Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Analog-Volume-Guide)
 * [Digital Volume Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Digital-Volume-Guide)
