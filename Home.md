@@ -34,8 +34,4 @@ The Circuit Sword is pre-order only, and the pre-order window is opened regularl
 You can find more information about the previous pre-order here: https://www.sudomod.com/forum/viewtopic.php?f=38&t=4351
 
 # Build overview
-Here are the generalised steps to follow:
-
-1. [Test all electronics](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
-2. Assemble into an enclosure/housing
-3. Boot up and use
+See the [build steps guide](https://github.com/kiteretro/Circuit-Sword/wiki/How-to-Build) to get started with building.
