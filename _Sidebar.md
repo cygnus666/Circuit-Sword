@@ -26,7 +26,7 @@
 ### Electronics Setup
 * [Circuit Sword Original Electronics Setup](https://github.com/kiteretro/Circuit-Sword/wiki/Circuit-Sword-Original---Electronics-Guide)
 * [Fan and heatsink](https://github.com/kiteretro/Circuit-Sword/wiki/Fan-and-Heatsink)
-### Configuring the joystick
+### Configuring Joystick
 * [Joystick Guide](https://github.com/kiteretro/Circuit-Sword/wiki/Joystick-Guide)
 ### Configuring 640x480 LCD
 * [HD 640x480 LCD Guide](https://github.com/kiteretro/Circuit-Sword/wiki/640x480-LCD-Guide)
