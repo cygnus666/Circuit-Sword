@@ -8,7 +8,7 @@ You have the following options in regards to adjusting the system volume:
 3. Place your own volume wheel in conjunction with option #1 and connect to the "ANALOG VOL" connector (JST SH 1.0mm 3pin)
 
 ## Volume Wheel (any)
-The Circuit Sword does not use a voltage divider or potentiometer to adjust the volume, instead it uses the linux/pi volume control that is built in. This is the same as pressing START on EmulationStation and adjusting the volume slider.
+The Circuit Sword does not use a voltage divider or potentiometer to adjust the volume, instead it uses the linux/pi volume control that is built in. This is the same as pressing START on the menu and adjusting the volume slider.
 
 In order to adjust the volume using combo keys and any other input from buttons, which are all handled by the Arduino, the Arduino itself needs to remember the volume level. The OSD Script that runs in the background periodically reads the volume from the Arduino and if it is different to what is already set last, it send the command to adjust the volume.
 
