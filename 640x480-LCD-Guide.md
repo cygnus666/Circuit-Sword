@@ -7,7 +7,7 @@ This guide will show you everything that you need to know about the 640x480 upgr
 
 ### Benefits
 * Higher resolution
-* Better game scaling up
+* Better app scaling up
 
 ### Disadvantages
 * Harder to fit (it's physically too wide)

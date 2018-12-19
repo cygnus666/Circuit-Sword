@@ -15,9 +15,9 @@ Alternatively you can press _CTRL+F1_ if you launched DOSBox from the main menu.
 
 Within this screen you now can remap the keyboard commands to the controller. (Make sure to visit the official [DOSBox wiki](http://www.dosbox.com/wiki/Mapper) on how to use this mapper.) When done, make sure to save and exit out of the mapper.
 
-## Configure Joystick/Gamepad
+## Configure Joystick/apppad
 
-However, when you start a random game via DOSBox, the D-pad/hat does no react to anything yet. So in the next step you also need to configure the DOSBox config file - `dosbox-SVN.conf` - which is located in the hidden folder `.dosbox` in your home folder. 
+However, when you start a random app via DOSBox, the D-pad/hat does no react to anything yet. So in the next step you also need to configure the DOSBox config file - `dosbox-SVN.conf` - which is located in the hidden folder `.dosbox` in your home folder. 
 Again exit out via _F4_. Then type:
 
 `cd ~/.dosbox`
@@ -33,10 +33,10 @@ Now you can use all mapped buttons on your handheld device.
 
 ## Additional Notes
 
-Depending on the app you intend to run, you might want to create different mapper files for each game since not all apps use the same key set. (else you can also search for game related patches, which allow a different kind of button usage.)
+Depending on the app you intend to run, you might want to create different mapper files for each app since not all apps use the same key set. (else you can also search for app related patches, which allow a different kind of button usage.)
 
 ## See Also
 
-* [How to configure USB game controllers in DOSBox.](http://dosonthepi.blogspot.co.uk/2015/01/configure-game-controllers-in-dosbox_29.html)
+* [How to configure USB app controllers in DOSBox.](http://dosonthepi.blogspot.co.uk/2015/01/configure-game-controllers-in-dosbox_29.html)
 * [How to create a default mapping for controllers in DOSBox.](http://dosonthepi.blogspot.co.uk/2015/02/default-arcade-mapping-for-dosbox.html)
 * [How to configure DOSBOX for individual apps.](http://dosonthepi.blogspot.co.uk/2015/02/dosbox-configuration-for-individual.html)

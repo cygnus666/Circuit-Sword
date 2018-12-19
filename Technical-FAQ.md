@@ -17,7 +17,7 @@ A: Because all the regulators are mine (the compute module has no regulators of 
 A: The USB C is in the same place as the Micro. It is marginally wider than the Micro. When I put it in cases that I had previously made I just had to trim 0.5-1mm from one side to get it to fit.. because it's more "square" it actually fits better.. also, one minor thing is that it pokes out further so to fit it you HAVE to make the cut-out.. the good news is that any USB C cable will fit, unlike previously when you had to use a 7mm long micro one!
 
 ***
-### Q: Can I use the Circuit Sword with custom SD card reader game cartridge?
+### Q: Can I use the Circuit Sword with custom SD card reader?
 A: I haven't designed it for that. I'm not going to go into it too much but there are a whole host of issues with the cart slot SD so I've stayed away from it and to date haven't had a single SD issue. If you did want something in the cartridge slot, then get a USB to SD adapter and wire it to the free USB port on the board. You could also do this with a full-sized USB port and have a memory stick inside the cartridge.
 
 ***

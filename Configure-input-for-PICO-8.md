@@ -11,7 +11,7 @@ When downloaded unzip the package and copy it over to your Pi to the following p
 In order to get the _SAIO/Circuit-Sword_ controls to work some config files need to be tweaked. You can download a predefined setup [here](https://www.dropbox.com/s/sens82mm607xcsk/pico8filesforSAIO.zip?dl=1) ([mirror download](http://www.mediafire.com/file/xx6o0n5swte453d/pico8filesforSAIO.zip)). When downloaded unzip the package and copy the whole _.lexaloffle_ folder over to your Pi to the following path: `/home/pi/`
 
 ***
-Alternatively you can map all core keys to the equivalent CSO game controller buttons manually. This can be done by editing the _sdl_controllers.txt_ file in _/home/pi/.lexaloffle_ folder:  
+Alternatively you can map all core keys to the equivalent CSO controller buttons manually. This can be done by editing the _sdl_controllers.txt_ file in _/home/pi/.lexaloffle_ folder:  
 `nano /home/pi/.lexaloffle/pico-8/sdl_controllers.txt`
 
 Once in the editor paste the following line:  

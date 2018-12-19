@@ -26,7 +26,7 @@ The Circuit Sword is a single circuit board that contains all the required power
 * Many more subtle improvements
 
 # What can it do?
-The Circuit Sword is a miniature single board computer and various software packages can be loaded and run on it. For example raspbian or retropie distributions are good use cases.
+The Circuit Sword is a miniature single board computer and various software packages can be loaded and run on it. For example raspbian distributions are good use cases.
 
 # Where do I get one?
 The Circuit Sword is pre-order only, and the pre-order window is opened regularly. The best way to get a notification on when/where it is available is to enter your email address here: https://goo.gl/forms/e97uUvPOfUxPWdz82

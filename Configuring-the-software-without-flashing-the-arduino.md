@@ -31,7 +31,7 @@ sudo service cs-osd start
 # Using the configurator
 When launched, you will be presented with the following information:
 ``` shell
-pi@retropie:~ $ python Circuit-Sword/cs-configure.py
+pi@raspbian:~ $ python Circuit-Sword/cs-configure.py
 INFO:root:Program Started
 
 GENERAL INFORMATION
