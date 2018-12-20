@@ -26,7 +26,7 @@ PICO-8 requires the _libwiringPi.so_ libraries. You can get these [here](http://
 
 `sudo apt-get install wiringpi` 
 
-(To access the terminal from _emulationstation_ plugin a keyboard and press _F4_. To get back to emulationstation simply type `emulationstation` and press _Enter_)
+(To access the terminal, plugi n a keyboard and press _F4_)
 
 
 ### BBS connection
@@ -34,9 +34,9 @@ To ensure you can connect to the BBS to get a list of games later on, you will n
 
 `sudo apt-get install wget`
 
-### Configure Emulationstation
+### Configure Launcher
 
-To create a new PICO-8 theme directory for Emulationstaion it's advised to follow this [step by step guide by dddaaannn](https://www.lexaloffle.com/bbs/?tid=3935). Just scroll down to the section _Launching PICO-8 from Emulation Station_ and follow the instructions.
+To create a new PICO-8 theme directory it's advised to follow this [step by step guide by dddaaannn](https://www.lexaloffle.com/bbs/?tid=3935). Just scroll down to the section _Launching PICO-8_ and follow the instructions.
 
 Note: As the GBZ has a larger screen than the one mentioned in dddaaannns guide it's recommended to fit the resolution for the GBZ. Therefore make sure to edit the system config file as follows:
 
@@ -50,7 +50,7 @@ Note: As the GBZ has a larger screen than the one mentioned in dddaaannns guide 
     <theme>pico8</theme>
     </system>
 
-Note: At the moment the _-splore_ switch is set in lieu of the _-run_ switch. This is because PICO-8 doesn't allow to quit out of a game yet when using the -run switch in a shell script without having a keyboard plugged in. This might change in future updates. For the moment one has to run PICO-8 in splore mode. There you can exit the emulator via the GBZ controls.
+Note: At the moment the _-splore_ switch is set in lieu of the _-run_ switch. This is because PICO-8 doesn't allow to quit out of a game yet when using the -run switch in a shell script without having a keyboard plugged in. This might change in future updates. For the moment one has to run PICO-8 in splore mode. There you can exit the app via the GBZ controls.
 
 ***
 
