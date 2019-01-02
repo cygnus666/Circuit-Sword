@@ -13,8 +13,8 @@ The 'MODE' button has a couple of uses:
 * MODE + B = WIFI DISABLE
 * MODE + Y = AUDIO AMP OFF
 * MODE + X = AUDIO AMP ON
-* MODE + START = DEBUG INFO ON
-* MODE + SELECT = DEBUG INFO OFF (power off will also reset this)
+* MODE + START = ON SCREEN KEYBOARD ON
+* MODE + SELECT = ON SCREEN KEYBOARD OFF (power off will also reset this)
 * MODE + R1 = DPAD is now a 2nd button input (rather than a HAT input)
 * MODE + L1 = DPAD is reset to HAT input
 
