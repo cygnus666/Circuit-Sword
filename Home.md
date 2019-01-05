@@ -1,7 +1,5 @@
 Welcome to the Circuit-Sword wiki! This wiki provides all documentation for the Circuit Sword projects. If you have a product named something else (e.g. Super AIO, SAIO, Super All in One, etc) then this isn't the wiki for you. If you have a Circuit Sword then keep reading!
 
-**Previous pre-order (for reference) available here: https://sudomod.com/forum/viewtopic.php?f=38&t=6884**
-
 _PRE-ORDER SIGN UP NOTIFICATION: https://goo.gl/forms/e97uUvPOfUxPWdz82_
 
 ![](https://i.imgur.com/ibdWkuw.png) Follow me on Instagram: http://instagram.com/kiteretro
