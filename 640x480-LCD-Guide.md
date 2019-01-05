@@ -48,29 +48,7 @@ overscan_scale=1
 ## Enabling backlight boost
 The 640x480 LCD needs more power to run at full brightness. On the Circuit Sword underneath the Compute Module is a solder jumped labelled "BL_BOOST". Solder over this to make a small bridge.
 
-## Fitting the LCD
-### Preparing case for LCD
-Do the screen surround cut out as per normal steps in guide. It is a good idea to use a black marker to run on the inside edge of the cutout so when viewed at an angle you can't see the grey plastic.
-
-The 640x480 LCD is very slightly wider than the shell.. it is required that the inside of the case needs to be trimmed to allow it to fit, and also for proper alignment.
-
-The only edge that needs indenting (for a better word) is the side with the CONTRAST slot. This is the side where the thick piece of metal on the LCD is closest to.
-
-To make the indent, I used a rotary tool with the pink grinding attachment and VERY SLOWLY took away a layer at a time. I then used a small FLAT file (rectangular tip) to slide up and down the area to make it neater.
-
-NOTE: Prepare the LCD first (see further steps) as you will need to keep placing it to make sure it fits. With the modifications to the LCD the middle of the indentation will require the most material removed. The top and bottom won't need so much removing.
-
-[[images/CSO/640LCD/2.jpg]]
-
-Keep filing and grinding it in iterations:
-
-[[images/CSO/640LCD/3.jpg]]
-
-If you hold it up to a light, you will be able to see light through it when the wall is getting thin. Do this often to avoid making holes in the side. You can see in the following image that I actually broke through the wall. From the outside it isn't noticable so I'm going to leave it as is. You could use some plastic filler:
-
-[[images/CSO/640LCD/4.jpg]]
-
-### Prepare LCD
+## Prepare LCD
 We need to make the biggest edge of the LCD as slim as possible, and we can modify the LCD itself and trim some of the WHITE plastic and also the METAL SHELL. Start by removing the outer metal shell. This is done by slowly unclipping the edge clips and levering out: 
 
 [[images/CSO/640LCD/5.jpg]]
@@ -91,7 +69,7 @@ Trim the metal shell with a cutting disk. you could choose to not put the metal 
 
 [[images/CSO/640LCD/9.jpg]]
 
-### Fit LCD
+## Fit LCD
 Connect up the adapter. When it goes inside the case it will be folded as shown in the image below:
 
 [[images/CSO/640LCD/10.jpg]]
@@ -99,7 +77,7 @@ Connect up the adapter. When it goes inside the case it will be folded as shown 
 It is a good idea to cover the back of the LCD and ALSO the adapter in kapton tape to prevent shorting.
 Using epoxy is the best way to fit and secure the screen.
 
-### Font Size
+## Font Size
 
 By default, CSO [sets a small console font size](https://github.com/kiteretro/Circuit-Sword/blob/master/settings/config-cs.txt#L18) at startup.  This is difficult to read with the 640x480 screen.
 To use the default system defined font, comment out the `STARTUPEXEC` line in `/boot/config-cs.txt`.
