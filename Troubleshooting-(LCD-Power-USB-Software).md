@@ -49,12 +49,3 @@ Inspect LCD ribbon cable connector for bridges, they are very difficult to spot:
 # Button Troubleshooting
 ## Mode button is always pressed
 Put kapton tape on the USB C connector and the mode button pins, as they may come in to contact. Alternatively use snips/file to make the mode button legs flush with PCB.
-
-# Power Troubleshooting
-This section contains everything to do with main power (e.g. won't turn ON).
-
-# USB Troubleshooting
-This section contains everything to do with USB devices (e.g. the USB HUB, Arduino, USB Audio, External USB, etc).
-
-# Software Troubleshooting
-This section contains everything to do with the software and maybe some general advice on where to look for help.
