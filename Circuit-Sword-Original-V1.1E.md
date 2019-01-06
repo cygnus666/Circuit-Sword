@@ -3,8 +3,6 @@ The following images should generally what the product is and what it includes:
 ![Overview](https://i.imgur.com/f2y7ulx.jpg)
 ![Back Board](https://i.imgur.com/tFAHmIA.jpg)
 ![Back board 2](https://i.imgur.com/jsqHT8o.jpg)
-![Power Switch](https://i.imgur.com/3NICQzA.jpg)
-![Fan](https://i.imgur.com/oiyyRez.jpg)
 
 # Board outline
 By using the following `.dxf` files and the images below, you should be able to get a good idea of how the Circuit Sword will physically fit into whatever thing that you are creating:
