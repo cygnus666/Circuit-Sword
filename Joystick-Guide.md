@@ -4,13 +4,8 @@ The Circuit Sword has 2x joystick ports, both are labelled with the pinout where
 
 [[images/CSO/CSO_JOYSTICK_CONN1.png]]
 
-# PSP Joystick
+# Pinouts
 [[images/CSO/PSP.jpg]]
-
-# Switch Joystick
-A 5P 0.5mm FPC connector adapter is required to use, however you can use a 6P (as pictured) as long as you align to one side.
-
-[[images/CSO/JOYCON.jpg]]
 
 ## Calibrating the joystick (NEW METHOD)
 When the joystick is connected, it will not function until it is calibrated. The calibration sequence detects if a joystick is connected and sets the min and max based on the actual joystick you have. If a joystick is not connected, the calibration won't enable it.
