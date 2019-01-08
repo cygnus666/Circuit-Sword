@@ -18,7 +18,7 @@
 
 10. Plug in the LCD
 
-11. Download the Circuit Sword Software then use Win32 Disk Imager to write it to an SD card. Open the “config-cs.txt” file using "Notepad++" then change “#MODE=TESTER” to “MODE=TESTER”
+11. Download the [Circuit Sword Software](https://github.com/kiteretro/Circuit-Sword) then use Win32 Disk Imager to write it to an SD card. Open the “config-cs.txt” file using "Notepad++" then change “#MODE=TESTER” to “MODE=TESTER”
 
 12. Insert the SD card then turn the power switch "ON". Once fully booted check that all of the tests have passed
 
