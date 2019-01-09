@@ -1,10 +1,10 @@
-1. Plug a USB C cable into the Circuit Sword and check that the “PG” LED comes on
+1. Plug a USB C cable into the Circuit Sword and check that the "PG" LED comes on
 
-2. Hold down the “power” button and check that the status LEDs come on
+2. Hold down the "power" button and check that the status LEDs come on
 
 3. Unplug the USB C cable then plug in the battery (WARNING: USING A CONNECTOR WITH THE WRONG PIN-OUT WILL BREAK THE CIRCUIT SWORD)
 
-4. Hold down the “power” button and check that the status LEDs come on
+4. Hold down the "power" button and check that the status LEDs come on
 
 5. Plug in the USB C cable and check that the "CHRG" and "PG" LEDs come on
 
@@ -18,15 +18,15 @@
 
 10. Plug in the LCD
 
-11. Download the [Circuit Sword Software](https://github.com/kiteretro/Circuit-Sword) then use Win32 Disk Imager to write it to an SD card. Open the “config-cs.txt” file using "Notepad++" then change “#MODE=TESTER” to “MODE=TESTER”
+11. Download the [Circuit Sword Software](https://github.com/kiteretro/Circuit-Sword) then use Win32 Disk Imager to write it to an SD card. Open the `config-cs.txt` file using "Notepad++" then change `#MODE=TESTER` to `MODE=TESTER`
 
 12. Insert the SD card then turn the power switch "ON". Once fully booted check that all of the tests have passed
 
-13. Hold down the “mode” button and wait for the configuration menu to appear
+13. Hold down the "mode" button and wait for the configuration menu to appear
 
 14. Turn the power switch "OFF" and wait for the Circuit Sword to shut down
 
-15. Solder the “mode” button to the power switch board then trim the pins
+15. Solder the "mode" button to the power switch board then trim the pins
 
 16. Solder the spacers to the Add-on board
 
