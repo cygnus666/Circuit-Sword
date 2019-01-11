@@ -70,4 +70,4 @@ Use the solder pads labelled below
 4. Run the command `sudo reboot`
 
 ## Can’t find the answer you’re looking for?
-Check out the support forum or e-mail kite@kitesitemshop.com
+Check out the [support forum](https://www.sudomod.com/forum/viewforum.php?f=51) or e-mail kite@kitesitemshop.com
