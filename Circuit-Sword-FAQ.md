@@ -1,4 +1,4 @@
-# How do I force the Circuit Sword to shut down?
+## How do I force the Circuit Sword to shut down?
 Turn the power switch "OFF" then press the "mode" button
 
 # How do I install Circuit Sword Software updates?
