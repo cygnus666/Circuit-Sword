@@ -9,7 +9,7 @@ _Click_ ⯈ _to expand_
 
 5. Plug in the USB C cable and check that the "CHRG" and "PG" LEDs come on
 
-6. Unplug the USB C cable and battery, then plug in the Add-on board and power switch board. Check that the power switch is "OFF"
+6. Unplug the USB C cable and battery, then plug in the Add-on board and power switch board (NOTE: INSERT THE FPC CABLE BLUE-SIDE UP). Check that the power switch is "OFF"
 
 7. Plug in the battery then the USB C cable. Turn the power switch "ON" and check that the status LEDs come on
 
