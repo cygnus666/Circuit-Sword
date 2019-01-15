@@ -1,3 +1,4 @@
+_Click_ ⯈ _to expand_
 1. Plug a USB C cable into the Circuit Sword and check that the "PG" LED comes on
 
 2. Hold down the "power" button and check that the status LEDs come on
