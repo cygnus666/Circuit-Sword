@@ -31,6 +31,6 @@ _Click_ ⯈ _to expand_
 
 16. Solder the spacers to the Add-on board one on top of the other
 
-17. Stick the heatsink to the Raspberry Pi Compute Module 3 Lite's CPU
+17. Stick the heatsink to the Raspberry Pi Compute Module 3 Lite
 
 18. Stick the fan to the Raspberry Pi Compute Module 3 Lite using double-sided foam tape
