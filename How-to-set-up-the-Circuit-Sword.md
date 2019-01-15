@@ -64,7 +64,7 @@ _Click_ ⯈ _to expand_
 <summary>11. Download the Circuit Sword Software then use Win32 Disk Imager to write it to an SD card. Open the `config-cs.txt` file using "Notepad++" then change `#MODE=TESTER` to `MODE=TESTER`
 </summary>
 
-[__CIRCUIT SWORD SOFTWARE__](https://github.com/kiteretro/Circuit-Sword/releases)
+[__☆ CIRCUIT SWORD SOFTWARE ☆__](https://github.com/kiteretro/Circuit-Sword/releases)
 
 [[images/CS/11.jpg]]
 </details>
