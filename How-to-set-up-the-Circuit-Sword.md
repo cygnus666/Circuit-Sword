@@ -27,7 +27,7 @@ _Click_ ⯈ _to expand_
 
 14. Turn the power switch "OFF" and wait for the Circuit Sword to shut down
 
-15. Solder the "mode" button to the power switch board then trim the pins
+15. Solder an additional "mode" button to the power switch board then trim the pins
 
 16. Solder the spacers to the Add-on board
 
