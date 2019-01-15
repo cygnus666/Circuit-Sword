@@ -29,7 +29,7 @@ _Click_ ⯈ _to expand_
 
 15. Solder an additional "mode" button to the power switch board then trim the pins
 
-16. Solder the spacers to the Add-on board
+16. Solder the spacers to the Add-on board one on top of the other
 
 17. Stick the heatsink to the CPU
 
