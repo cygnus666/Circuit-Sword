@@ -35,7 +35,8 @@ network={
 7. Run the command `sudo service cs-hud start`
 
 ## How do I enable the 640x480 LCD?
-Insert your Circuit Sword SD card into a PC then open the file `config.txt` using "Notepad++". Add and remove `#` as follows
+1. Solder a bridge between the solder pads labelled below
+2. Insert your Circuit Sword SD card into a PC then open the file `config.txt` using "Notepad++". Add and remove `#` as follows
 ```
 # Enable 320x240 custom display mode
 #framebuffer_width=320
