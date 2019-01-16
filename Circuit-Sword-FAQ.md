@@ -1,3 +1,5 @@
+_Click_ ⯈ _to expand_
+
 ## How do I force the Circuit Sword to shut down?
 Turn the power switch "OFF" then press the "mode" button
 
