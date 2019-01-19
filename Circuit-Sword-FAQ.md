@@ -64,7 +64,7 @@ hdmi_timings=480 1 5 5 14 640 1 3 3 3 0 0 0 60 0 32000000 1
 6. Run the command `sudo service cs-hud start`
 
 ## How do I add more status LEDs?
-Use the solder pads labelled below
+Use the solder pads labelled below (circuit diagram provided)
 
 ## How do I reprogram the microcontroller?
 1. Enable SSH and check that the Circuit Sword is connected to Wi-Fi then log in to the Raspberry Pi Compute Module 3 Lite using SSH
